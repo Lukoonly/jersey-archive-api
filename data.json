@@ -14,7 +14,7 @@
                 {
                   "type": "home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/premier/arsenal/1999-2000/away.jpg",
-                  "description" : "Arsenal's 1990–91 jersey is a symbol of dominance and resilience. Under George Graham, the Gunners lost just one league game all season and clinched the First Division title with 83 points. The bold yellow zig-zag away kit became iconic, and the team was known for its solid defense and tactical discipline. A true championship shirt from a near-invincible season."
+                  "description": "Arsenal's 1990–91 jersey is a symbol of dominance and resilience. Under George Graham, the Gunners lost just one league game all season and clinched the First Division title with 83 points. The bold yellow zig-zag away kit became iconic, and the team was known for its solid defense and tactical discipline. A true championship shirt from a near-invincible season."
                 }
               ]
             },
@@ -24,7 +24,7 @@
                 {
                   "type": "home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/premier/arsenal/1999-2000/away.jpg",
-                  "description" : "This season’s kit represents European glory. Arsenal, led by George Graham, won the UEFA Cup Winners' Cup by defeating Parma 1–0 in the final. The team played with grit and structure, embodying the essence of English football in Europe. The red home shirt was worn by legends like Ian Wright and Alan Smith during one of the club’s most memorable European triumphs."
+                  "description": "This season’s kit represents European glory. Arsenal, led by George Graham, won the UEFA Cup Winners' Cup by defeating Parma 1–0 in the final. The team played with grit and structure, embodying the essence of English football in Europe. The red home shirt was worn by legends like Ian Wright and Alan Smith during one of the club’s most memorable European triumphs."
                 }
               ]
             },
@@ -34,7 +34,7 @@
                 {
                   "type": "home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/premier/arsenal/1999-2000/away.jpg",
-                  "description" : "Arguably the most iconic Arsenal jersey ever. In the 2003–04 season, Arsenal went the entire Premier League campaign unbeaten — 26 wins and 12 draws — becoming “The Invincibles.” Led by Arsène Wenger and powered by Thierry Henry, Patrick Vieira, and Dennis Bergkamp, this shirt is forever tied to one of the greatest achievements in English football history."
+                  "description": "Arguably the most iconic Arsenal jersey ever. In the 2003–04 season, Arsenal went the entire Premier League campaign unbeaten — 26 wins and 12 draws — becoming “The Invincibles.” Led by Arsène Wenger and powered by Thierry Henry, Patrick Vieira, and Dennis Bergkamp, this shirt is forever tied to one of the greatest achievements in English football history."
                 }
               ]
             },
@@ -44,7 +44,334 @@
                 {
                   "type": "home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/premier/arsenal/1999-2000/away.jpg",
-                  "description" : "The 2022–23 Arsenal jersey marked the return of hope and excitement to the Emirates. Under Mikel Arteta, the Gunners led the Premier League table for most of the season and played energetic, attractive football. While they ultimately finished 2nd behind Manchester City, this season reignited the belief in a new generation of Arsenal stars, including Bukayo Saka and Martin Ødegaard."
+                  "description": "The 2022–23 Arsenal jersey marked the return of hope and excitement to the Emirates. Under Mikel Arteta, the Gunners led the Premier League table for most of the season and played energetic, attractive football. While they ultimately finished 2nd behind Manchester City, this season reignited the belief in a new generation of Arsenal stars, including Bukayo Saka and Martin Ødegaard."
+                }
+              ]
+            },
+            {
+              "year": "1998-1999",
+              "jerseys": [
+                {
+                  "type": "home",
+                  "image": "https://lukoonly.github.io/jersey-archive-api/premier/arsenal/1998-1999/away/away.JPG",
+                  "description": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "liverpool",
+          "name": "Liverpool",
+          "seasons": [
+            {
+              "year": "1993-1994",
+              "jerseys": [
+                {
+                  "type": "home",
+                  "image": "https://lukoonly.github.io/jersey-archive-api/premier/liverpool/1993-94/home/liver93-94.JPG",
+                  "description": ""
+                }
+              ]
+            },
+            {
+              "year": "1995-1996",
+              "jerseys": [
+                {
+                  "type": "home",
+                  "image": "https://lukoonly.github.io/jersey-archive-api/premier/liverpool/1995-96/home/liver95-96.JPG",
+                  "description": ""
+                }
+              ]
+            },
+            {
+              "year": "1996-1997",
+              "jerseys": [
+                {
+                  "type": "home",
+                  "image": "https://lukoonly.github.io/jersey-archive-api/premier/liverpool/1996-1997/home/liver96-97.JPG",
+                  "description": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "manun",
+          "name": "Manchester United",
+          "seasons": [
+            {
+              "year": "1986-1987",
+              "jerseys": [
+                {
+                  "type": "home",
+                  "image": "https://lukoonly.github.io/jersey-archive-api/premier/manun/1986-87/home/manun86-87.JPG",
+                  "description": ""
+                },
+                {
+                  "type": "away",
+                  "image": "https://lukoonly.github.io/jersey-archive-api/premier/manun/1986-87/away/manun86-87.JPG",
+                  "description": ""
+                }
+              ]
+            },
+            {
+              "year": "1990-1991",
+              "jerseys": [
+                {
+                  "type": "away",
+                  "image": "https://lukoonly.github.io/jersey-archive-api/premier/manun/1990-91/away/manun90-91.JPG",
+                  "description": ""
+                }
+              ]
+            },
+            {
+              "year": "1994-1995",
+              "jerseys": [
+                {
+                  "type": "home",
+                  "image": "https://lukoonly.github.io/jersey-archive-api/premier/manun/1994-95/home/manun94-95.JPG",
+                  "description": ""
+                }
+              ]
+            },
+            {
+              "year": "2023-2024",
+              "jerseys": [
+                {
+                  "type": "home",
+                  "image": "https://lukoonly.github.io/jersey-archive-api/premier/manun/2023-24/home/maun23-24.JPG",
+                  "description": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "laliga",
+      "name": "La LIga",
+      "teams": [
+        {
+          "id": "barcelona",
+          "name": "Barcelona",
+          "seasons": [
+            {
+              "year": "1998-1999",
+              "jerseys": [
+                {
+                  "type": "away",
+                  "image": "https://lukoonly.github.io/jersey-archive-api/laliga/barcelona/1998-99/away/away.JPG",
+                  "description": ""
+                }
+              ]
+            },
+            {
+              "year": "2001-2002",
+              "jerseys": [
+                {
+                  "type": "home",
+                  "image": "https://lukoonly.github.io/jersey-archive-api/laliga/barcelona/2001-02/home/home.JPG",
+                  "description": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "real",
+          "name": "Real",
+          "seasons": [
+            {
+              "year": "2000-2001",
+              "jerseys": [
+                {
+                  "type": "home",
+                  "image": "https://lukoonly.github.io/jersey-archive-api/laliga/real/2000-01/home/real00-01.JPG",
+                  "description": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seriea",
+      "name": "Serie A",
+      "teams": [
+        {
+          "id": "inter",
+          "name": "Inter",
+          "seasons": [
+            {
+              "year": "1997-1998",
+              "jerseys": [
+                {
+                  "type": "away",
+                  "image": "https://lukoonly.github.io/jersey-archive-api/seriea/inter/1997-98/inter97-98.JPG",
+                  "description": ""
+                }
+              ]
+            },
+            {
+              "year": "1998-1999",
+              "jerseys": [
+                {
+                  "type": "home",
+                  "image": "https://lukoonly.github.io/jersey-archive-api/seriea/inter/1998-99/inter98-99.JPG",
+                  "description": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "rome",
+          "name": "Rome",
+          "seasons": [
+            {
+              "year": "1998-1999",
+              "jerseys": [
+                {
+                  "type": "home",
+                  "image": "https://lukoonly.github.io/jersey-archive-api/seriea/rome/1998-99/rome98-99.JPG",
+                  "description": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "national",
+      "name": "National Teams",
+      "teams": [
+        {
+          "id": "brazil",
+          "name": "Brazil",
+          "seasons": [
+            {
+              "year": "2009-2010",
+              "jerseys": [
+                {
+                  "type": "home",
+                  "image": "https://lukoonly.github.io/jersey-archive-api/national/brazil/2009-10/home/brazil09-10.JPG",
+                  "description": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "germany",
+          "name": "Germany",
+          "seasons": [
+            {
+              "year": "2013-2014",
+              "jerseys": [
+                {
+                  "type": "away",
+                  "image": "https://lukoonly.github.io/jersey-archive-api/national/germany/2013-14/away/gemany13-14.JPG",
+                  "description": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "portugal",
+          "name": "Portugal",
+          "seasons": [
+            {
+              "year": "1992-1993",
+              "jerseys": [
+                {
+                  "type": "home",
+                  "image": "https://lukoonly.github.io/jersey-archive-api/national/portugal/1992-93/home/portugal92-93.JPG",
+                  "description": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "spain",
+          "name": "Spain",
+          "seasons": [
+            {
+              "year": "2009-2010",
+              "jerseys": [
+                {
+                  "type": "home",
+                  "image": "https://lukoonly.github.io/jersey-archive-api/national/sapin/2009-10/home/spain09-10.JPG",
+                  "description": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "name": "Other Clubs",
+      "teams": [
+        {
+          "id": "celtic",
+          "name": "Celtic",
+          "seasons": [
+            {
+              "year": "1989-1990",
+              "jerseys": [
+                {
+                  "type": "home",
+                  "image": "https://lukoonly.github.io/jersey-archive-api/other/celtic/1999-00/home/celtic89-90.JPG",
+                  "description": ""
+                }
+              ]
+            },
+            {
+              "year": "1992-1993",
+              "jerseys": [
+                {
+                  "type": "home",
+                  "image": "https://lukoonly.github.io/jersey-archive-api/other/celtic/1992-93/home/celtic92-93.JPG",
+                  "description": ""
+                }
+              ]
+            },
+            {
+              "year": "1997-1998",
+              "jerseys": [
+                {
+                  "type": "home",
+                  "image": "https://lukoonly.github.io/jersey-archive-api/other/celtic/1997-98/home/celtic97-98.JPG",
+                  "description": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "league1",
+      "name": "League One",
+      "teams": [
+        {
+          "id": "psg",
+          "name": "PSG",
+          "seasons": [
+            {
+              "year": "2012-2013",
+              "jerseys": [
+                {
+                  "type": "home",
+                  "image": "https://lukoonly.github.io/jersey-archive-api/l1/psg/2012-13/psg12-13.JPG",
+                  "description": ""
                 }
               ]
             }
@@ -54,6 +381,3 @@
     }
   ]
 }
-
-
-
