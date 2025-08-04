@@ -14,7 +14,7 @@
               "jerseys": [
                 {
                   "type": "home",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/premier/arsenal/1999-2000/away.jpg",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/1990-91/home/arsenal90-91.JPG",
                   "description": "Arsenal's 1990–91 jersey is a symbol of dominance and resilience. Under George Graham, the Gunners lost just one league game all season and clinched the First Division title with 83 points. The bold yellow zig-zag away kit became iconic, and the team was known for its solid defense and tactical discipline. A true championship shirt from a near-invincible season."
                 }
               ]
