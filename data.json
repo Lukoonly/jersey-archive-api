@@ -24,7 +24,7 @@
               "jerseys": [
                 {
                   "type": "home",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/premier/arsenal/1999-2000/away.jpg",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/1993-94/home/ars2093-94.JPG",
                   "description": "This season’s kit represents European glory. Arsenal, led by George Graham, won the UEFA Cup Winners' Cup by defeating Parma 1–0 in the final. The team played with grit and structure, embodying the essence of English football in Europe. The red home shirt was worn by legends like Ian Wright and Alan Smith during one of the club’s most memorable European triumphs."
                 }
               ]
@@ -34,7 +34,7 @@
               "jerseys": [
                 {
                   "type": "home",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/premier/arsenal/1999-2000/away.jpg",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/2003-04/home/ars03-04.JPG",
                   "description": "Arguably the most iconic Arsenal jersey ever. In the 2003–04 season, Arsenal went the entire Premier League campaign unbeaten — 26 wins and 12 draws — becoming “The Invincibles.” Led by Arsène Wenger and powered by Thierry Henry, Patrick Vieira, and Dennis Bergkamp, this shirt is forever tied to one of the greatest achievements in English football history."
                 }
               ]
@@ -44,7 +44,7 @@
               "jerseys": [
                 {
                   "type": "home",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/premier/arsenal/1999-2000/away.jpg",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/2022-23/home/arsenal2022-23.jpeg",
                   "description": "The 2022–23 Arsenal jersey marked the return of hope and excitement to the Emirates. Under Mikel Arteta, the Gunners led the Premier League table for most of the season and played energetic, attractive football. While they ultimately finished 2nd behind Manchester City, this season reignited the belief in a new generation of Arsenal stars, including Bukayo Saka and Martin Ødegaard."
                 }
               ]
@@ -54,7 +54,7 @@
               "jerseys": [
                 {
                   "type": "home",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/premier/arsenal/1998-1999/away/away.JPG",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/1998-99/home/arsenal98-99.JPG",
                   "description": ""
                 }
               ]
