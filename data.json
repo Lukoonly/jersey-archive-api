@@ -7,7 +7,7 @@
         {
           "id": "arsenal",
           "name": "Arsenal",
-          "logo": "https://github.com/Lukoonly/jersey-archive-api/blob/master/premier/arsenal/arsenallogo.png",
+          "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/blob/master/premier/arsenal/arsenallogo.png",
           "seasons": [
             {
               "year": "1990-1991",
