@@ -57,7 +57,7 @@
                 {
                   "type": "Home",
                   "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/1998-99/home/arsenal98-99.JPG",
-                  "description": ""
+                  "description": "Arsenal's 1998-1999 jersey: Finished 2nd in the Premier League, narrowly missing the title."
                 }
               ]
             }
@@ -74,7 +74,7 @@
                 {
                   "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/premier/liverpool/1993-94/home/liver93-94.JPG",
-                  "description": ""
+                  "description": "Liverpool's 1993-1994 jersey: Transition year under Graeme Souness."
                 }
               ]
             },
@@ -84,7 +84,7 @@
                 {
                   "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/premier/liverpool/1995-96/home/liver95-96.JPG",
-                  "description": ""
+                  "description": "Liverpool's 1995-1996 jersey: Finished 3rd in Premier League; famous white suits in FA Cup final."
                 }
               ]
             },
@@ -94,7 +94,7 @@
                 {
                   "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/premier/liverpool/1996-97/home/liver96-97.JPG",
-                  "description": ""
+                  "description": "Liverpool's 1996-1997 jersey: Title contenders, finished 4th with young stars like Fowler and Owen."
                 }
               ]
             }
@@ -112,12 +112,12 @@
                 {
                   "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/premier/manun/1986-87/home/manun86-87.JPG",
-                  "description": ""
+                  "description": "Manchester United's 1986-1987 jersey: Start of Sir Alex Ferguson's era."
                 },
                 {
                   "type": "Away",
                   "image": "https://lukoonly.github.io/jersey-archive-api/premier/manun/1986-87/away/manun86-87.JPG",
-                  "description": ""
+                  "description": "Manchester United's 1986-1987 jersey: Start of Sir Alex Ferguson's era."
                 }
               ]
             },
@@ -127,7 +127,7 @@
                 {
                   "type": "Away",
                   "image": "https://lukoonly.github.io/jersey-archive-api/premier/manun/1990-91/away/manun90-91.JPG",
-                  "description": ""
+                  "description": "Manchester United's 1990-1991 jersey: Won the UEFA Cup Winners' Cup."
                 }
               ]
             },
@@ -137,7 +137,7 @@
                 {
                   "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/premier/manun/1994-95/home/manun94-95.JPG",
-                  "description": ""
+                  "description": "Manchester United's 1994-1995 jersey: Finished second in Premier League; Eric Cantona suspension season."
                 }
               ]
             },
@@ -147,7 +147,7 @@
                 {
                   "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/premier/manun/2023-24/home/maun23-24.JPG",
-                  "description": ""
+                  "description": "Manchester United's 2023-2024 jersey: Returned to Champions League under Ten Hag."
                 }
               ]
             }
@@ -171,7 +171,7 @@
                 {
                   "type": "Away",
                   "image": "https://lukoonly.github.io/jersey-archive-api/laliga/barcelona/1998-99/away/away.JPG",
-                  "description": ""
+                  "description": "FC Barcelona's 1998-1999 jersey was worn during a notable season."
                 }
               ]
             },
@@ -181,7 +181,7 @@
                 {
                   "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/laliga/barcelona/2001-02/home/home.JPG",
-                  "description": ""
+                  "description": "FC Barcelona's 2001-2002 jersey was worn during a notable season."
                 }
               ]
             }
@@ -199,7 +199,7 @@
                 {
                   "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/laliga/real/2000-01/home/real00-01.JPG",
-                  "description": ""
+                  "description": "Real Madrid's 2000-2001 jersey: Won La Liga with stars like Figo and Raúl."
                 }
               ]
             }
@@ -224,7 +224,7 @@
                 {
                   "type": "Away",
                   "image": "https://lukoonly.github.io/jersey-archive-api/seriea/inter/1997-98/inter97-98.JPG",
-                  "description": ""
+                  "description": "Inter Milan's 1997-1998 jersey was worn during a notable season."
                 }
               ]
             },
@@ -234,7 +234,7 @@
                 {
                   "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/seriea/inter/1998-99/inter98-99.JPG",
-                  "description": ""
+                  "description": "Inter Milan's 1998-1999 jersey was worn during a notable season."
                 }
               ]
             }
@@ -252,7 +252,7 @@
                 {
                   "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/seriea/rome/1998-99/rome98-99.JPG",
-                  "description": ""
+                  "description": "AS Roma's 1998-1999 jersey was worn during a notable season."
                 }
               ]
             }
@@ -277,7 +277,7 @@
                 {
                   "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/national/brazil/2009-10/home/brazil09-10.JPG",
-                  "description": ""
+                  "description": "Brazil's 2009-2010 jersey: Won the 2009 Confederations Cup; pre-World Cup form."
                 }
               ]
             }
@@ -295,7 +295,7 @@
                 {
                   "type": "Away",
                   "image": "https://lukoonly.github.io/jersey-archive-api/national/germany/2013-14/away/gemany13-14.JPG",
-                  "description": ""
+                  "description": "Germany's 2013-2014 jersey: Won the 2014 FIFA World Cup in Brazil."
                 }
               ]
             }
@@ -313,7 +313,7 @@
                 {
                   "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/national/portugal/1992-93/home/portugal92-93.JPG",
-                  "description": ""
+                  "description": "Portugal's 1992-1993 jersey: Showed promise with rising young stars."
                 }
               ]
             }
@@ -331,7 +331,7 @@
                 {
                   "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/national/sapin/2009-10/home/spain09-10.JPG",
-                  "description": ""
+                  "description": "Spain's 2009-2010 jersey: Won the 2010 FIFA World Cup in South Africa."
                 }
               ]
             }
@@ -356,7 +356,7 @@
                 {
                   "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/other/celtic/1999-00/home/celtic89-90.JPG",
-                  "description": ""
+                  "description": "Celtic FC's 1989-1990 jersey was worn during a notable season."
                 }
               ]
             },
@@ -366,7 +366,7 @@
                 {
                   "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/other/celtic/1992-93/home/celtic92-93.JPG",
-                  "description": ""
+                  "description": "Celtic FC's 1992-1993 jersey was worn during a notable season."
                 }
               ]
             },
@@ -376,7 +376,7 @@
                 {
                   "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/other/celtic/1997-98/home/celtic97-98.JPG",
-                  "description": ""
+                  "description": "Celtic FC's 1997-1998 jersey was worn during a notable season."
                 }
               ]
             }
@@ -401,7 +401,7 @@
                 {
                   "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/l1/psg/2012-13/psg12-13.JPG",
-                  "description": ""
+                  "description": "Paris Saint-Germain's 2012-2013 jersey was worn during a notable season."
                 }
               ]
             }
