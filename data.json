@@ -1,19 +1,21 @@
 {
   "leagues": [
     {
-      "id": "premier",
+      "id": "Premier League",
       "name": "Premier League",
+      "history": "The Premier League is the top level of the English football league system. Since its inception in 1992, it has become one of the most watched leagues globally.",
       "teams": [
         {
-          "id": "arsenal",
+          "id": "Arsenal",
           "name": "Arsenal",
           "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/arsenallogo.png",
+          "history": "Arsenal Football Club, based in London, is one of the most successful clubs in English football history with 13 league titles.",
           "seasons": [
             {
               "year": "1990-1991",
               "jerseys": [
                 {
-                  "type": "home",
+                  "type": "Home",
                   "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/1990-91/home/arsenal90-91.JPG",
                   "description": "Arsenal's 1990–91 jersey is a symbol of dominance and resilience. Under George Graham, the Gunners lost just one league game all season and clinched the First Division title with 83 points. The bold yellow zig-zag away kit became iconic, and the team was known for its solid defense and tactical discipline. A true championship shirt from a near-invincible season."
                 }
@@ -23,7 +25,7 @@
               "year": "1993-1994",
               "jerseys": [
                 {
-                  "type": "home",
+                  "type": "Home",
                   "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/1993-94/home/ars93-94.JPG",
                   "description": "This season’s kit represents European glory. Arsenal, led by George Graham, won the UEFA Cup Winners' Cup by defeating Parma 1–0 in the final. The team played with grit and structure, embodying the essence of English football in Europe. The red home shirt was worn by legends like Ian Wright and Alan Smith during one of the club’s most memorable European triumphs."
                 }
@@ -33,7 +35,7 @@
               "year": "2003-2004",
               "jerseys": [
                 {
-                  "type": "home",
+                  "type": "Home",
                   "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/2003-04/home/ars03-04.JPG",
                   "description": "Arguably the most iconic Arsenal jersey ever. In the 2003–04 season, Arsenal went the entire Premier League campaign unbeaten — 26 wins and 12 draws — becoming “The Invincibles.” Led by Arsène Wenger and powered by Thierry Henry, Patrick Vieira, and Dennis Bergkamp, this shirt is forever tied to one of the greatest achievements in English football history."
                 }
@@ -43,7 +45,7 @@
               "year": "2022-2023",
               "jerseys": [
                 {
-                  "type": "home",
+                  "type": "Home",
                   "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/2022-23/home/arsenal2022-23.jpeg",
                   "description": "The 2022–23 Arsenal jersey marked the return of hope and excitement to the Emirates. Under Mikel Arteta, the Gunners led the Premier League table for most of the season and played energetic, attractive football. While they ultimately finished 2nd behind Manchester City, this season reignited the belief in a new generation of Arsenal stars, including Bukayo Saka and Martin Ødegaard."
                 }
@@ -53,7 +55,7 @@
               "year": "1998-1999",
               "jerseys": [
                 {
-                  "type": "home",
+                  "type": "Home",
                   "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/1998-99/home/arsenal98-99.JPG",
                   "description": ""
                 }
@@ -62,7 +64,7 @@
           ]
         },
         {
-          "id": "liverpool",
+          "id": "Liverpool",
           "name": "Liverpool",
           "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/liverpool/liverpoollogo.png",
           "seasons": [
@@ -70,7 +72,7 @@
               "year": "1993-1994",
               "jerseys": [
                 {
-                  "type": "home",
+                  "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/premier/liverpool/1993-94/home/liver93-94.JPG",
                   "description": ""
                 }
@@ -80,7 +82,7 @@
               "year": "1995-1996",
               "jerseys": [
                 {
-                  "type": "home",
+                  "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/premier/liverpool/1995-96/home/liver95-96.JPG",
                   "description": ""
                 }
@@ -90,16 +92,17 @@
               "year": "1996-1997",
               "jerseys": [
                 {
-                  "type": "home",
+                  "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/premier/liverpool/1996-97/home/liver96-97.JPG",
                   "description": ""
                 }
               ]
             }
-          ]
+          ],
+          "history": "Liverpool FC has a rich history with 19 league titles and 6 European Cups, making it one of the most decorated clubs in the world."
         },
         {
-          "id": "manun",
+          "id": "Manchester United",
           "name": "Manchester United",
           "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/manunlogo.png",
           "seasons": [
@@ -107,12 +110,12 @@
               "year": "1986-1987",
               "jerseys": [
                 {
-                  "type": "home",
+                  "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/premier/manun/1986-87/home/manun86-87.JPG",
                   "description": ""
                 },
                 {
-                  "type": "away",
+                  "type": "Away",
                   "image": "https://lukoonly.github.io/jersey-archive-api/premier/manun/1986-87/away/manun86-87.JPG",
                   "description": ""
                 }
@@ -122,7 +125,7 @@
               "year": "1990-1991",
               "jerseys": [
                 {
-                  "type": "away",
+                  "type": "Away",
                   "image": "https://lukoonly.github.io/jersey-archive-api/premier/manun/1990-91/away/manun90-91.JPG",
                   "description": ""
                 }
@@ -132,7 +135,7 @@
               "year": "1994-1995",
               "jerseys": [
                 {
-                  "type": "home",
+                  "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/premier/manun/1994-95/home/manun94-95.JPG",
                   "description": ""
                 }
@@ -142,13 +145,14 @@
               "year": "2023-2024",
               "jerseys": [
                 {
-                  "type": "home",
+                  "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/premier/manun/2023-24/home/maun23-24.JPG",
                   "description": ""
                 }
               ]
             }
-          ]
+          ],
+          "history": "Manchester United is one of the most popular and successful football clubs globally, with 20 league titles and 3 Champions League trophies."
         }
       ]
     },
@@ -157,15 +161,15 @@
       "name": "La Liga",
       "teams": [
         {
-          "id": "barcelona",
-          "name": "Barcelona",
+          "id": "FC Barcelona",
+          "name": "FC Barcelona",
           "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/Barcelona/barcalogo.png",
           "seasons": [
             {
               "year": "1998-1999",
               "jerseys": [
                 {
-                  "type": "away",
+                  "type": "Away",
                   "image": "https://lukoonly.github.io/jersey-archive-api/laliga/barcelona/1998-99/away/away.JPG",
                   "description": ""
                 }
@@ -175,47 +179,50 @@
               "year": "2001-2002",
               "jerseys": [
                 {
-                  "type": "home",
+                  "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/laliga/barcelona/2001-02/home/home.JPG",
                   "description": ""
                 }
               ]
             }
-          ]
+          ],
+          "history": "FC Barcelona is a Spanish club known for its beautiful attacking football and a record number of trophies in Spanish football."
         },
         {
-          "id": "real",
-          "name": "Real",
+          "id": "Real Madrid",
+          "name": "Real Madrid",
           "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/real/reallogo.png",
           "seasons": [
             {
               "year": "2000-2001",
               "jerseys": [
                 {
-                  "type": "home",
+                  "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/laliga/real/2000-01/home/real00-01.JPG",
                   "description": ""
                 }
               ]
             }
-          ]
+          ],
+          "history": "Real Madrid is the most successful club in European football history, with 14 UEFA Champions League titles."
         }
-      ]
+      ],
+      "history": "La Liga, officially known as the Primera División, is the top professional football division of the Spanish football league system."
     },
     {
       "id": "seriea",
       "name": "Serie A",
       "teams": [
         {
-          "id": "inter",
-          "name": "Inter",
+          "id": "Inter Milan",
+          "name": "Inter Milan",
           "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/inter/interlogo.png",
           "seasons": [
             {
               "year": "1997-1998",
               "jerseys": [
                 {
-                  "type": "away",
+                  "type": "Away",
                   "image": "https://lukoonly.github.io/jersey-archive-api/seriea/inter/1997-98/inter97-98.JPG",
                   "description": ""
                 }
@@ -225,39 +232,42 @@
               "year": "1998-1999",
               "jerseys": [
                 {
-                  "type": "home",
+                  "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/seriea/inter/1998-99/inter98-99.JPG",
                   "description": ""
                 }
               ]
             }
-          ]
+          ],
+          "history": "Inter Milan is a historic Italian club, known for winning numerous Serie A titles and Champions League trophies."
         },
         {
-          "id": "rome",
-          "name": "Rome",
+          "id": "AS Roma",
+          "name": "AS Roma",
           "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/rome/romalogo.png",
           "seasons": [
             {
               "year": "1998-1999",
               "jerseys": [
                 {
-                  "type": "home",
+                  "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/seriea/rome/1998-99/rome98-99.JPG",
                   "description": ""
                 }
               ]
             }
-          ]
+          ],
+          "history": "AS Roma is a major Italian club with passionate fans and a rich footballing history."
         }
-      ]
+      ],
+      "history": "Serie A is the top professional football league in Italy, known for its tactical style and home to many historic clubs."
     },
     {
       "id": "national",
       "name": "National Teams",
       "teams": [
         {
-          "id": "brazil",
+          "id": "Brazil",
           "name": "Brazil",
           "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/brazil/brazillogo.png",
           "seasons": [
@@ -265,16 +275,17 @@
               "year": "2009-2010",
               "jerseys": [
                 {
-                  "type": "home",
+                  "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/national/brazil/2009-10/home/brazil09-10.JPG",
                   "description": ""
                 }
               ]
             }
-          ]
+          ],
+          "history": "Brazil's national team is the most successful in World Cup history with 5 titles and a legacy of flair and creativity."
         },
         {
-          "id": "germany",
+          "id": "Germany",
           "name": "Germany",
           "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/germany/germanylogo.png",
           "seasons": [
@@ -282,16 +293,17 @@
               "year": "2013-2014",
               "jerseys": [
                 {
-                  "type": "away",
+                  "type": "Away",
                   "image": "https://lukoonly.github.io/jersey-archive-api/national/germany/2013-14/away/gemany13-14.JPG",
                   "description": ""
                 }
               ]
             }
-          ]
+          ],
+          "history": "Germany is a powerhouse in international football, with 4 World Cups and a tradition of discipline and excellence."
         },
         {
-          "id": "portugal",
+          "id": "Portugal",
           "name": "Portugal",
           "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/portugal/portugallogo.png",
           "seasons": [
@@ -299,16 +311,17 @@
               "year": "1992-1993",
               "jerseys": [
                 {
-                  "type": "home",
+                  "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/national/portugal/1992-93/home/portugal92-93.JPG",
                   "description": ""
                 }
               ]
             }
-          ]
+          ],
+          "history": "Portugal has risen to prominence in the 21st century, winning the Euro 2016 and Nations League in 2019."
         },
         {
-          "id": "spain",
+          "id": "Spain",
           "name": "Spain",
           "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/spain/spainlogo.png",
           "seasons": [
@@ -316,30 +329,32 @@
               "year": "2009-2010",
               "jerseys": [
                 {
-                  "type": "home",
+                  "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/national/sapin/2009-10/home/spain09-10.JPG",
                   "description": ""
                 }
               ]
             }
-          ]
+          ],
+          "history": "Spain's golden generation won Euro 2008, World Cup 2010, and Euro 2012, setting a new standard for dominance."
         }
-      ]
+      ],
+      "history": "A collection of the world's most iconic national football teams, each with its own rich international history."
     },
     {
       "id": "other",
       "name": "Other Clubs",
       "teams": [
         {
-          "id": "celtic",
-          "name": "Celtic",
+          "id": "Celtic FC",
+          "name": "Celtic FC",
           "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/master/other/celtic/celticlogo.png",
           "seasons": [
             {
               "year": "1989-1990",
               "jerseys": [
                 {
-                  "type": "home",
+                  "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/other/celtic/1999-00/home/celtic89-90.JPG",
                   "description": ""
                 }
@@ -349,7 +364,7 @@
               "year": "1992-1993",
               "jerseys": [
                 {
-                  "type": "home",
+                  "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/other/celtic/1992-93/home/celtic92-93.JPG",
                   "description": ""
                 }
@@ -359,38 +374,42 @@
               "year": "1997-1998",
               "jerseys": [
                 {
-                  "type": "home",
+                  "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/other/celtic/1997-98/home/celtic97-98.JPG",
                   "description": ""
                 }
               ]
             }
-          ]
+          ],
+          "history": "Celtic FC is one of Scotland’s most successful and beloved football clubs, known for its green and white hoops."
         }
-      ]
+      ],
+      "history": "A variety of storied football clubs from different countries and leagues, each with unique traditions and heritage."
     },
     {
       "id": "league1",
       "name": "League One",
       "teams": [
         {
-          "id": "psg",
-          "name": "PSG",
+          "id": "Paris Saint-Germain",
+          "name": "Paris Saint-Germain",
           "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/l1/psg/psglogo.png",
           "seasons": [
             {
               "year": "2012-2013",
               "jerseys": [
                 {
-                  "type": "home",
+                  "type": "Home",
                   "image": "https://lukoonly.github.io/jersey-archive-api/l1/psg/2012-13/psg12-13.JPG",
                   "description": ""
                 }
               ]
             }
-          ]
+          ],
+          "history": "PSG is a dominant force in French football, particularly since the 2010s with multiple league titles and global stars."
         }
-      ]
+      ],
+      "history": "Ligue 1, France’s premier football competition, is home to some of Europe’s top clubs and world-renowned players."
     }
   ]
 }
