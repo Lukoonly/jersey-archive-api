@@ -1,512 +1,1723 @@
 {
-    "leagues": [
+  "leagues": [
     {
-        "id": "Premier League",
-        "name": "Premier League",
-        "history": "The Premier League, founded in 1992, quickly became one of the most watched and commercially powerful football competitions in the world. It features clubs with large global followings and has produced many legendary teams and players. Its competitive balance and financial scale have transformed modern football.",
-        "teams": [
+      "id": "bundesliga",
+      "name": "Bundesliga",
+      "teams": [
         {
-            "id": "Arsenal",
-            "name": "Arsenal",
-            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/arsenallogo.png",
-            "history": "Arsenal Football Club, based in North London, is one of England's most storied clubs with a long tradition of attractive football. The club has won multiple league titles, FA Cups and produced iconic players. Under Arsène Wenger the club modernized its style and global reach, culminating in the unbeaten 'Invincibles' season of 2003–04.",
-            "seasons": [
+          "id": "bayern",
+          "name": "Bayern",
+          "seasons": [
             {
-                "year": "1990-1991",
-                "jerseys": [
+              "year": "2012-13",
+              "jerseys": [
                 {
-                    "type": "Home",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/1990-91/home/arsenal90-91.JPG",
-                    "technical_sponsor": "Umbro",
-                    "colors": "red-white",
-                    "description": "Arsenal's 1990–91 jersey is a symbol of dominance and resilience. Under George Graham, Arsenal lost just one league game all season and clinched the First Division title with 83 points — a major achievement while wearing this shirt."
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/bundesliga/bayern/2012-13/home/bayern12-13.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Bayern's 2012-13 Home jersey was worn in an important season for the club."
                 }
-                ]
-            },
-            {
-                "year": "1993-1994",
-                "jerseys": [
-                {
-                    "type": "Home",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/1993-94/home/ars93-94.JPG",
-                    "technical_sponsor": "Umbro",
-                    "colors": "red-white",
-                    "description": "This red home shirt was worn during Arsenal's successful European Cup Winners' Cup campaign; the club beat Parma 1–0 in the final to secure the trophy, marking a high point in their early-90s European outings."
-                }
-                ]
-            },
-            {
-                "year": "2003-2004",
-                "jerseys": [
-                {
-                    "type": "Home",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/2003-04/home/ars03-04.JPG",
-                    "technical_sponsor": "Nike",
-                    "colors": "red-white",
-                    "description": "Arguably the most iconic Arsenal jersey ever. Worn during the 'Invincibles' season — Arsenal went unbeaten in the Premier League (26 wins, 12 draws) and captured the title under Arsène Wenger; this shirt is forever linked to that historic achievement."
-                }
-                ]
-            },
-            {
-                "year": "2022-2023",
-                "jerseys": [
-                {
-                    "type": "Home",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/2022-23/home/arsenal2022-23.jpeg",
-                    "technical_sponsor": "Adidas",
-                    "colors": "red-white",
-                    "description": "The 2022–23 home jersey was worn in a season that marked Arsenal's return to title contention under Mikel Arteta. The team played attractive, high-energy football and finished second in the Premier League, re-igniting hopes for sustained success."
-                }
-                ]
-            },
-            {
-                "year": "1998-1999",
-                "jerseys": [
-                {
-                    "type": "Home",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/1998-99/home/arsenal98-99.JPG",
-                    "technical_sponsor": "Nike",
-                    "colors": "red-white",
-                    "description": "Arsenal's 1998–99 home shirt was used in a season where the team finished near the top of the table, narrowly missing the title but consolidating itself as a consistent Premier League challenger."
-                }
-                ]
+              ]
             }
-            ]
+          ],
+          "logo": "bundesliga/bayern/bayernlogo.png",
+          "history": "Bayern is a historic club with a rich tradition, notable achievements, and a passionate fan base."
         },
         {
-            "id": "Liverpool",
-            "name": "Liverpool",
-            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/liverpool/liverpoollogo.png",
-            "history": "Liverpool FC is one of England's most decorated clubs, boasting numerous league titles and European Cups. Known for their passionate fanbase and historic Anfield atmosphere, Liverpool has produced many legendary teams and managers. The club's identity is closely tied to its red home kit and global popularity.",
-            "seasons": [
+          "id": "borussia",
+          "name": "Borussia",
+          "seasons": [
             {
-                "year": "1993-1994",
-                "jerseys": [
+              "year": "2012-13",
+              "jerseys": [
                 {
-                    "type": "Home",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/liverpool/1993-94/home/liver93-94.JPG",
-                    "technical_sponsor": "Adidas",
-                    "colors": "red-white",
-                    "description": "Liverpool's 1993–94 home jersey was worn in a transitional season as the club navigated managerial and squad changes while remaining a prominent force in English football."
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/bundesliga/borussia/2012-13/home/borussia12-13.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Borussia's 2012-13 Home jersey was worn in an important season for the club."
                 }
-                ]
-            },
-            {
-                "year": "1995-1996",
-                "jerseys": [
-                {
-                    "type": "Home",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/liverpool/1995-96/home/liver95-96.JPG",
-                    "technical_sponsor": "Reebok",
-                    "colors": "red-white",
-                    "description": "Liverpool's 1995–96 kit was worn as the club pushed for top finishes; the season included a strong cup run and the emergence of a new generation of attacking talent."
-                }
-                ]
-            },
-            {
-                "year": "1996-1997",
-                "jerseys": [
-                {
-                    "type": "Home",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/liverpool/1996-97/home/liver96-97.JPG",
-                    "technical_sponsor": "Reebok",
-                    "colors": "red-white",
-                    "description": "The 1996–97 home shirt was used in a campaign where Liverpool contested near the top of the table and showcased future stars while rebuilding towards European ambitions."
-                }
-                ]
+              ]
             }
-            ]
+          ],
+          "logo": "bundesliga/borussia/borussialogo.png",
+          "history": "Borussia is a historic club with a rich tradition, notable achievements, and a passionate fan base."
         },
         {
-            "id": "Manchester United",
-            "name": "Manchester United",
-            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/manunlogo.png",
-            "history": "Manchester United is one of the world's most famous football clubs, with many Premier League titles and multiple Champions League triumphs. Under Sir Alex Ferguson the club dominated English football for decades, producing legendary players and a global brand. The red home shirts are emblematic of the club's identity and history.",
-            "seasons": [
+          "id": "eintracht",
+          "name": "Eintracht",
+          "seasons": [
             {
-                "year": "1986-1987",
-                "jerseys": [
+              "year": "2018-19",
+              "jerseys": [
                 {
-                    "type": "Home",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/1986-87/home/manun86-87.JPG",
-                    "technical_sponsor": "Umbro",
-                    "colors": "red-white",
-                    "description": "Manchester United's 1986–87 shirts were worn at the beginning of Sir Alex Ferguson's tenure, a season that marked the start of the club's prolonged period of rebuilding and eventual dominance."
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/bundesliga/eintracht/2018-19/home/eintracht18-19.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Eintracht's 2018-19 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "bundesliga/eintracht/eintrachtlogo.png",
+          "history": "Eintracht is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        }
+      ],
+      "history": "Bundesliga is one of the most renowned football leagues, known for its competitive nature and world-class teams."
+    },
+    {
+      "id": "l1",
+      "name": "L1",
+      "teams": [
+        {
+          "id": "marseille",
+          "name": "Marseille",
+          "seasons": [
+            {
+              "year": "1998-99",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/l1/marseille/1998-99/home/olimpic98-99.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Marseille's 1998-99 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "l1/marseille/marseillelogo.png",
+          "history": "Marseille is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        },
+        {
+          "id": "psg",
+          "name": "Psg",
+          "seasons": [
+            {
+              "year": "1994-95",
+              "jerseys": [
+                {
+                  "type": "Away",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/l1/psg/1994-95/away/psg94-95.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Psg's 1994-95 Away jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2012-13",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/l1/psg/2012-13/home/psg12-13.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Psg's 2012-13 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "l1/psg/psglogo.png",
+          "history": "Psg is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        }
+      ],
+      "history": "L1 is one of the most renowned football leagues, known for its competitive nature and world-class teams."
+    },
+    {
+      "id": "laliga",
+      "name": "Laliga",
+      "teams": [
+        {
+          "id": "barcelona",
+          "name": "Barcelona",
+          "seasons": [
+            {
+              "year": "1997-98",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/barcelona/1997-98/home/barca97-98.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Barcelona's 1997-98 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "1998-99",
+              "jerseys": [
+                {
+                  "type": "Away",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/barcelona/1998-99/away/barcelona01-02.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Barcelona's 1998-99 Away jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2001-02",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/barcelona/2001-02/home/barcelona01-02.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Barcelona's 2001-02 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2005-06",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/barcelona/2005-06/home/barca2006.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Barcelona's 2005-06 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2007-08",
+              "jerseys": [
+                {
+                  "type": "Away",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/barcelona/2007-08/away/barca 07-08.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Barcelona's 2007-08 Away jersey was worn in an important season for the club."
                 },
                 {
-                    "type": "Away",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/1986-87/away/manun86-87.JPG",
-                    "technical_sponsor": "Umbro",
-                    "colors": "white-red",
-                    "description": "The away shirt for 1986–87 accompanied a pivotal season as the club set foundations for future success under the new manager."
+                  "type": "Away",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/barcelona/2007-08/away/barca07-08.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Barcelona's 2007-08 Away jersey was worn in an important season for the club."
                 }
-                ]
+              ]
             },
             {
-                "year": "1990-1991",
-                "jerseys": [
+              "year": "2018-19",
+              "jerseys": [
                 {
-                    "type": "Away",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/1990-91/away/manun90-91.JPG",
-                    "technical_sponsor": "Umbro",
-                    "colors": "white-red",
-                    "description": "The 1990–91 away kit was worn as United consolidated under Ferguson, building a squad that would soon claim multiple domestic titles and European success."
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/barcelona/2018-19/home/barca18-19.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Barcelona's 2018-19 Home jersey was worn in an important season for the club."
                 }
-                ]
+              ]
             },
             {
-                "year": "1994-1995",
-                "jerseys": [
+              "year": "2024-25",
+              "jerseys": [
                 {
-                    "type": "Home",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/1994-95/home/manun94-95.JPG",
-                    "technical_sponsor": "Umbro",
-                    "colors": "red-white",
-                    "description": "United's 1994–95 home shirt was used during a season of highs and lows, with the club finishing strongly in the league and developing the squad that would collect future trophies."
+                  "type": "Away",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/barcelona/2024-25/away/barca 24-25.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Barcelona's 2024-25 Away jersey was worn in an important season for the club."
+                },
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/barcelona/2024-25/home/barca14-15.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Barcelona's 2024-25 Home jersey was worn in an important season for the club."
                 }
-                ]
+              ]
+            }
+          ],
+          "logo": "laliga/barcelona/barcalogo.png",
+          "history": "Barcelona is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        },
+        {
+          "id": "real",
+          "name": "Real",
+          "seasons": [
+            {
+              "year": "1986-87",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/real/1986-87/home/real86-87.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Real's 1986-87 Home jersey was worn in an important season for the club."
+                }
+              ]
             },
             {
-                "year": "2023-2024",
-                "jerseys": [
+              "year": "1996-97",
+              "jerseys": [
                 {
-                    "type": "Home",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/2023-24/home/maun23-24.JPG",
-                    "technical_sponsor": "Adidas",
-                    "colors": "red-white",
-                    "description": "The 2023–24 home jersey was worn in a season that saw Manchester United return to the Champions League under Erik ten Hag, reflecting a period of rebuilding and renewed competitiveness."
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/real/1996-97/home/real96-97.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Real's 1996-97 Home jersey was worn in an important season for the club."
                 }
-                ]
-            }
-            ]
-        }
-        ]
-    },
-    {
-        "id": "La Liga",
-        "name": "La Liga",
-        "history": "La Liga is Spain's top professional football division, known for technical football, world-class talents and the rise of clubs with extensive European success. Over decades it has produced multiple Ballon d'Or winners and dominant teams in European competitions.",
-        "teams": [
-        {
-            "id": "FC Barcelona",
-            "name": "FC Barcelona",
-            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/Barcelona/barcalogo.png",
-            "history": "FC Barcelona is renowned for its attacking philosophy, La Masia academy and a trophy-rich history. The club's identity blends Catalan culture with global sporting success, and Barca has produced many of football's greatest players.",
-            "seasons": [
-            {
-                "year": "1998-1999",
-                "jerseys": [
-                {
-                    "type": "Away",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/barcelona/1998-99/away/away.JPG",
-                    "technical_sponsor": "Nike",
-                    "colors": "blue-maroon",
-                    "description": "Barcelona's 1998–99 away jersey was used in a season of transition; the club sought domestic consistency and prepared for the success that would follow in the next decade."
-                }
-                ]
+              ]
             },
             {
-                "year": "2001-2002",
-                "jerseys": [
+              "year": "1998-99",
+              "jerseys": [
                 {
-                    "type": "Home",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/barcelona/2001-02/home/home.JPG",
-                    "technical_sponsor": "Nike",
-                    "colors": "blue-maroon",
-                    "description": "The 2001–02 home kit accompanied seasons of rebuilding and squad changes as Barcelona aimed to reclaim domestic dominance and compete strongly in Europe."
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/real/1998-99/home/real98-99.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Real's 1998-99 Home jersey was worn in an important season for the club."
                 }
-                ]
-            }
-            ]
-        },
-        {
-            "id": "Real Madrid",
-            "name": "Real Madrid",
-            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/real/reallogo.png",
-            "history": "Real Madrid is Europe's most decorated club with a record number of Champions League titles. The club has a long tradition of signing world-class stars and pursuing domestic and continental success, defining much of modern football's history.",
-            "seasons": [
-            {
-                "year": "2000-2001",
-                "jerseys": [
-                {
-                    "type": "Home",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/real/2000-01/home/real00-01.JPG",
-                    "technical_sponsor": "Adidas",
-                    "colors": "white",
-                    "description": "Real Madrid's 2000–01 home shirt was worn in a season where the club captured La Liga with stars like Luis Figo and Raúl, reaffirming their domestic dominance."
-                }
-                ]
-            }
-            ]
-        }
-        ]
-    },
-    {
-        "id": "Serie A",
-        "name": "Serie A",
-        "history": "Serie A, Italy's top division, is known for tactical rigor, defensively strong sides and historic clubs with European pedigrees. The league has produced many world-class defenders and managers and remains a crucial part of football's tactical evolution.",
-        "teams": [
-        {
-            "id": "Inter Milan",
-            "name": "Inter Milan",
-            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/inter/interlogo.png",
-            "history": "Inter Milan (Internazionale) is one of Italy's most successful clubs with multiple Serie A titles and European trophies. The club is historically associated with the blue-and-black stripes and has a global fan base.",
-            "seasons": [
-            {
-                "year": "1997-1998",
-                "jerseys": [
-                {
-                    "type": "Away",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/inter/1997-98/away/inter97-98.JPG",
-                    "technical_sponsor": "Umbro",
-                    "colors": "white-blue",
-                    "description": "Inter's 1997–98 away jersey was worn in a season of domestic and cup ambition; the club pursued top positions in Serie A while maintaining strong European aspirations."
-                }
-                ]
+              ]
             },
             {
-                "year": "1998-1999",
-                "jerseys": [
+              "year": "2000-01",
+              "jerseys": [
                 {
-                    "type": "Home",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/inter/1998-99/home/inter98-99.JPG",
-                    "technical_sponsor": "Umbro",
-                    "colors": "blue-black",
-                    "description": "Inter's 1998–99 home shirt featured the iconic Pirelli-sponsored identity as the club competed at a high level in Serie A, contesting the title race and European competitions."
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/real/2000-01/home/real00-01.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Real's 2000-01 Home jersey was worn in an important season for the club."
                 }
-                ]
+              ]
+            },
+            {
+              "year": "2001-02",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/real/2001-02/home/real01-02.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Real's 2001-02 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2004-05",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/real/2004-05/home/real04-05.jpeg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Real's 2004-05 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2005-06",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/real/2005-06/home/real05-06.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Real's 2005-06 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2021-22",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/real/2021-22/home/real21-22.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Real's 2021-22 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2024-25",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/real/2024-25/home/real24-25.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Real's 2024-25 Home jersey was worn in an important season for the club."
+                }
+              ]
             }
-            ]
+          ],
+          "logo": "laliga/real/reallogo.png",
+          "history": "Real is a historic club with a rich tradition, notable achievements, and a passionate fan base."
         },
         {
-            "id": "AS Roma",
-            "name": "AS Roma",
-            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/rome/romalogo.png",
-            "history": "AS Roma is a historic Roman club with passionate fans, regular top-flight presence and memorable seasons in domestic and European competition. The club's colors, maroon and gold, express its regional pride.",
-            "seasons": [
+          "id": "valencia",
+          "name": "Valencia",
+          "seasons": [
             {
-                "year": "1998-1999",
-                "jerseys": [
+              "year": "2000-01",
+              "jerseys": [
                 {
-                    "type": "Home",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/rome/1998-99/home/rome98-99.JPG",
-                    "technical_sponsor": "Kappa",
-                    "colors": "maroon-gold",
-                    "description": "Roma's 1998–99 home shirt was worn in a season where the club maintained a strong Serie A presence and produced memorable domestic performances."
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/valencia/2000-01/home/valencia00-01.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Valencia's 2000-01 Home jersey was worn in an important season for the club."
                 }
-                ]
+              ]
             }
-            ]
+          ],
+          "logo": "laliga/valencia/valencialogo.png",
+          "history": "Valencia is a historic club with a rich tradition, notable achievements, and a passionate fan base."
         }
-        ]
+      ],
+      "history": "Laliga is one of the most renowned football leagues, known for its competitive nature and world-class teams."
     },
     {
-        "id": "National Teams",
-        "name": "National Teams",
-        "history": "This collection gathers iconic national teams with deep international histories. Each team has left its mark on World Cups and continental tournaments, showcasing unique playing styles and producing legendary talents.",
-        "teams": [
+      "id": "national",
+      "name": "National",
+      "teams": [
         {
-            "id": "Brazil",
-            "name": "Brazil",
-            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/brazil/brazillogo.png",
-            "history": "Brazil is the most successful nation in World Cup history with five titles, known for its creative, attacking football and generation-spanning talents from Pelé to Neymar. The yellow home kit is one of football's most recognizable symbols.",
-            "seasons": [
+          "id": "argentina",
+          "name": "Argentina",
+          "seasons": [
             {
-                "year": "2009-2010",
-                "jerseys": [
+              "year": "1997-98",
+              "jerseys": [
                 {
-                    "type": "Home",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/brazil/2009-10/home/brazil09-10.JPG",
-                    "technical_sponsor": "Nike",
-                    "colors": "yellow-green",
-                    "description": "Worn during Brazil’s successful 2009 Confederations Cup campaign and in the lead-up to the 2010 World Cup; the shirt represents a squad filled with attacking talents and international pedigree."
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/argentina/1997-98/home/argentina97-98.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Argentina's 1997-98 Home jersey was worn in an important season for the club."
                 }
-                ]
+              ]
+            },
+            {
+              "year": "2021-22",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/argentina/2021-22/home/argentina21-22.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Argentina's 2021-22 Home jersey was worn in an important season for the club."
+                }
+              ]
             }
-            ]
+          ],
+          "logo": "national/argentina/argentinalogo.png",
+          "history": "Argentina is a historic club with a rich tradition, notable achievements, and a passionate fan base."
         },
         {
-            "id": "Germany",
-            "name": "Germany",
-            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/germany/germanylogo.png",
-            "history": "Germany is a powerhouse of international football with four World Cup wins and a culture of efficiency and tactical discipline. The national team consistently develops strong squads and competes at the highest level.",
-            "seasons": [
+          "id": "brazil",
+          "name": "Brazil",
+          "seasons": [
             {
-                "year": "2013-2014",
-                "jerseys": [
+              "year": "1993-94",
+              "jerseys": [
                 {
-                    "type": "Away",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/germany/2013-14/away/gemany13-14.JPG",
-                    "technical_sponsor": "Adidas",
-                    "colors": "white-black",
-                    "description": "The 2013–14 away shirt was part of the era that culminated in Germany winning the 2014 FIFA World Cup in Brazil — a tournament defined by strong team cohesion and clinical performances."
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/brazil/1993-94/home/brazil93-94.jpg",
+                  "technical_sponsor": "Nike",
+                  "colors": "yellow-green",
+                  "description": "Brazil's 1993-94 Home jersey was worn in an important season for the club."
                 }
-                ]
+              ]
+            },
+            {
+              "year": "2001-02",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/brazil/2001-02/home/brazil01-2.jpg",
+                  "technical_sponsor": "Nike",
+                  "colors": "yellow-green",
+                  "description": "Brazil's 2001-02 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2005-06",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/brazil/2005-06/home/brazil2006.JPG",
+                  "technical_sponsor": "Nike",
+                  "colors": "yellow-green",
+                  "description": "Brazil's 2005-06 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2009-10",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/brazil/2009-10/home/brazil09-10.JPG",
+                  "technical_sponsor": "Nike",
+                  "colors": "yellow-green",
+                  "description": "Brazil's 2009-10 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2011-12",
+              "jerseys": [
+                {
+                  "type": "Away",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/brazil/2011-12/away/brazil11-12.jpg",
+                  "technical_sponsor": "Nike",
+                  "colors": "yellow-green",
+                  "description": "Brazil's 2011-12 Away jersey was worn in an important season for the club."
+                }
+              ]
             }
-            ]
+          ],
+          "logo": "national/brazil/brazillogo.png",
+          "history": "Brazil is a historic club with a rich tradition, notable achievements, and a passionate fan base."
         },
         {
-            "id": "Portugal",
-            "name": "Portugal",
-            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/portugal/portugallogo.png",
-            "history": "Portugal rose to major international prominence in the 21st century, claiming the UEFA European Championship in 2016 and the inaugural Nations League in 2019. The national side is known for producing technically gifted attackers and tactically astute squads.",
-            "seasons": [
+          "id": "columbia",
+          "name": "Columbia",
+          "seasons": [
             {
-                "year": "1992-1993",
-                "jerseys": [
+              "year": "2013-14",
+              "jerseys": [
                 {
-                    "type": "Home",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/portugal/1992-93/home/portugal92-93.JPG",
-                    "technical_sponsor": "Nike",
-                    "colors": "red-green",
-                    "description": "Portugal's 1992–93 home shirt accompanied a period of rising talent and optimism as the national team began to produce a wave of players who would define its future successes."
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/columbia/2013-14/home/columbia13-14.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Columbia's 2013-14 Home jersey was worn in an important season for the club."
                 }
-                ]
+              ]
             }
-            ]
+          ],
+          "logo": "national/columbia/columbialogo.png",
+          "history": "Columbia is a historic club with a rich tradition, notable achievements, and a passionate fan base."
         },
         {
-            "id": "Spain",
-            "name": "Spain",
-            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/spain/spainlogo.png",
-            "history": "Spain's national team experienced a golden era between 2008 and 2012, winning Euro 2008, the 2010 World Cup and Euro 2012. The team is celebrated for technical prowess, possession-based football and a succession of elite midfielders.",
-            "seasons": [
+          "id": "england",
+          "name": "England",
+          "seasons": [
             {
-                "year": "2009-2010",
-                "jerseys": [
+              "year": "1995-96",
+              "jerseys": [
                 {
-                    "type": "Home",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/spain/2009-10/home/spain09-10.JPG",
-                    "technical_sponsor": "Adidas",
-                    "colors": "red-yellow",
-                    "description": "This home shirt was used in the period where Spain captured the 2010 FIFA World Cup — the peak of an exceptional national generation known for dominance in possession and control."
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/england/1995-96/home/england95-96.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "England's 1995-96 Home jersey was worn in an important season for the club."
                 }
-                ]
+              ]
             }
-            ]
+          ],
+          "logo": "national/england/englandlogo.png",
+          "history": "England is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        },
+        {
+          "id": "france",
+          "name": "France",
+          "seasons": [
+            {
+              "year": "1981-82",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/france/1981-82/home/france82.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "France's 1981-82 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "1995-96",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/france/1995-96/home/france95-96.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "France's 1995-96 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "1999-00",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/france/1999-00/home/france99-00.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "France's 1999-00 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2021-22",
+              "jerseys": [
+                {
+                  "type": "Away",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/france/2021-22/away/france21-22.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "France's 2021-22 Away jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "national/france/francelogo.png",
+          "history": "France is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        },
+        {
+          "id": "germany",
+          "name": "Germany",
+          "seasons": [
+            {
+              "year": "2013-14",
+              "jerseys": [
+                {
+                  "type": "Away",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/germany/2013-14/away/gemany13-14.JPG",
+                  "technical_sponsor": "Adidas",
+                  "colors": "white-black",
+                  "description": "Germany's 2013-14 Away jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "national/germany/germanylogo.png",
+          "history": "Germany is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        },
+        {
+          "id": "ireland",
+          "name": "Ireland",
+          "seasons": [
+            {
+              "year": "1993-94",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/ireland/1993-94/home/ireland 1994.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Ireland's 1993-94 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "national/ireland/irelandlogo.png",
+          "history": "Ireland is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        },
+        {
+          "id": "italy",
+          "name": "Italy",
+          "seasons": [
+            {
+              "year": "1995-96",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/italy/1995-96/home/italy95-96.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Italy's 1995-96 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "national/italy/italylogo.png",
+          "history": "Italy is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        },
+        {
+          "id": "portugal",
+          "name": "Portugal",
+          "seasons": [
+            {
+              "year": "1992-93",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/portugal/1992-93/home/portugal92-93.JPG",
+                  "technical_sponsor": "Adidas",
+                  "colors": "red-green",
+                  "description": "Portugal's 1992-93 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2003-04",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/portugal/2003-04/home/portugal03-04.jpg",
+                  "technical_sponsor": "Adidas",
+                  "colors": "red-green",
+                  "description": "Portugal's 2003-04 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2015-16",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/portugal/2015-16/home/portugal15-16.jpg",
+                  "technical_sponsor": "Adidas",
+                  "colors": "red-green",
+                  "description": "Portugal's 2015-16 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "national/portugal/portugallogo.png",
+          "history": "Portugal is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        },
+        {
+          "id": "spain",
+          "name": "Spain",
+          "seasons": [
+            {
+              "year": "1995-96",
+              "jerseys": [
+                {
+                  "type": "Away",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/spain/1995-96/away/spain95-96.JPG",
+                  "technical_sponsor": "Adidas",
+                  "colors": "red-yellow",
+                  "description": "Spain's 1995-96 Away jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2009-10",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/spain/2009-10/home/spain09-10.JPG",
+                  "technical_sponsor": "Adidas",
+                  "colors": "red-yellow",
+                  "description": "Spain's 2009-10 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "national/spain/spainlogo.png",
+          "history": "Spain is a historic club with a rich tradition, notable achievements, and a passionate fan base."
         }
-        ]
+      ],
+      "history": "National is one of the most renowned football leagues, known for its competitive nature and world-class teams."
     },
     {
-        "id": "Other Clubs",
-        "name": "Other Clubs",
-        "history": "A collection of storied clubs from different countries and leagues, each with unique traditions. These clubs often have strong local support and a history of domestic success and memorable European campaigns.",
-        "teams": [
+      "id": "other",
+      "name": "Other",
+      "teams": [
         {
-            "id": "Celtic FC",
-            "name": "Celtic FC",
-            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/master/other/celtic/celticlogo.png",
-            "history": "Celtic Football Club, based in Glasgow, is one of Scotland's most successful clubs, famous for their green-and-white hoops and passionate supporters. They have won numerous Scottish league titles and cups and have a strong European history including the 1967 European Cup.",
-            "seasons": [
+          "id": "celtic",
+          "name": "Celtic",
+          "seasons": [
             {
-                "year": "1989-1990",
-                "jerseys": [
+              "year": "1989-90",
+              "jerseys": [
                 {
-                    "type": "Home",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/other/celtic/1999-00/home/celtic89-90.JPG",
-                    "technical_sponsor": "Umbro",
-                    "colors": "green-white",
-                    "description": "Celtic's 1989–90 home jersey was worn during a period of domestic competition in Scotland; the team continued to be a leading force in the league and cup competitions."
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/other/celtic/1989-90/home/celtic89-90.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Celtic's 1989-90 Home jersey was worn in an important season for the club."
                 }
-                ]
-            }
-            ]
-        }
-        ]
-    },
-    {
-        "id": "Ligue 1",
-        "name": "Ligue 1",
-        "history": "Ligue 1 is France's top football league, producing world-class talents and strong domestic clubs. Since the 2010s it has seen major investment and global stars, raising its international profile.",
-        "teams": [
-        {
-            "id": "Paris Saint-Germain",
-            "name": "Paris Saint-Germain",
-            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/l1/psg/psglogo.png",
-            "history": "Paris Saint-Germain became France's dominant club during the 2010s after significant investment, winning multiple league titles and attracting global stars. The club is now a major European project with strong commercial growth.",
-            "seasons": [
+              ]
+            },
             {
-                "year": "2012-2013",
-                "jerseys": [
+              "year": "1992-93",
+              "jerseys": [
                 {
-                    "type": "Home",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/l1/psg/2012-13/psg12-13.JPG",
-                    "technical_sponsor": "Nike",
-                    "colors": "blue-red",
-                    "description": "PSG's 2012–13 home shirt was used in the club's early-dominant phase after major investment; they consolidated their status as French champions and grew into a major European side."
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/other/celtic/1992-93/home/celtic92-93.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Celtic's 1992-93 Home jersey was worn in an important season for the club."
                 }
-                ]
-            }
-            ]
-        }
-        ]
-    },
-    {
-        "id": "Bundesliga",
-        "name": "Bundesliga",
-        "history": "Germany's Bundesliga is known for vibrant atmospheres, strong fan ownership models and regularly producing competitive teams in European competitions. Clubs emphasize youth development and tactical organization.",
-        "teams": [
-        {
-            "id": "Bayern Munich",
-            "name": "Bayern Munich",
-            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/bundesliga/bayern/bayernlogo.png",
-            "history": "FC Bayern Munich is Germany's most successful club domestically and a perennial European contender. Known for consistent investment in squad quality, Bayern has numerous Bundesliga titles and Champions League achievements.",
-            "seasons": [
+              ]
+            },
             {
-                "year": "2012-13",
-                "jerseys": [
+              "year": "1997-98",
+              "jerseys": [
                 {
-                    "type": "Home",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/bundesliga/bayern/2012-13/home/bayern12-13.jpg",
-                    "technical_sponsor": "Adidas",
-                    "colors": "red-white",
-                    "description": "Bayern Munich's 2012–13 home shirt was worn in the treble-winning season under Jupp Heynckes; Bayern won the Bundesliga, DFB-Pokal and the UEFA Champions League — one of the club's greatest campaigns."
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/other/celtic/1997-98/home/celtic97-98.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Celtic's 1997-98 Home jersey was worn in an important season for the club."
                 }
-                ]
+              ]
             }
-            ]
+          ],
+          "logo": "other/celtic/celticlogo.png",
+          "history": "Celtic is a historic club with a rich tradition, notable achievements, and a passionate fan base."
         },
         {
-            "id": "Borussia Dortmund",
-            "name": "Borussia Dortmund",
-            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/bundesliga/borussia/borussialogo.png",
-            "history": "Borussia Dortmund is a leading German club known for an attacking style, strong youth development and passionate supporters at Signal Iduna Park. The club has won multiple Bundesliga titles and a Champions League.",
-            "seasons": [
+          "id": "porto",
+          "name": "Porto",
+          "seasons": [
             {
-                "year": "2012-13",
-                "jerseys": [
+              "year": "2003-04",
+              "jerseys": [
                 {
-                    "type": "Home",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/bundesliga/borussia/2012-13/home/borussia12-13.jpg",
-                    "technical_sponsor": "Puma",
-                    "colors": "yellow-black",
-                    "description": "Borussia Dortmund's 2012–13 kit was worn in a season when they were among Germany's top teams, balancing domestic competition and European ambitions while showcasing young stars."
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/other/porto/2003-04/home/porto03-04.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Porto's 2003-04 Home jersey was worn in an important season for the club."
                 }
-                ]
+              ]
             }
-            ]
+          ],
+          "logo": "other/porto/portologo.png",
+          "history": "Porto is a historic club with a rich tradition, notable achievements, and a passionate fan base."
         },
         {
-            "id": "Eintracht Frankfurt",
-            "name": "Eintracht Frankfurt",
-            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/bundesliga/eintracht/eintrachtlogo.png",
-            "history": "Eintracht Frankfurt is a historic Bundesliga side with a passionate local following and solid cup traditions. The club has had notable domestic and European moments, including deep cup runs and competitive league finishes.",
-            "seasons": [
+          "id": "sporting",
+          "name": "Sporting",
+          "seasons": [
             {
-                "year": "2018-19",
-                "jerseys": [
+              "year": "2000-01",
+              "jerseys": [
                 {
-                    "type": "Home",
-                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/bundesliga/eintracht/2018-19/home/eintracht18-19.jpg",
-                    "technical_sponsor": "Nike",
-                    "colors": "black-white",
-                    "description": "Eintracht Frankfurt's 2018–19 home shirt accompanied a season where the club achieved notable domestic results and laid groundwork for future cup successes."
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/other/sporting/2000-01/home/sporting00-01.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Sporting's 2000-01 Home jersey was worn in an important season for the club."
                 }
-                ]
+              ]
             }
-            ]
+          ],
+          "logo": "other/sporting/sportinglogo.png",
+          "history": "Sporting is a historic club with a rich tradition, notable achievements, and a passionate fan base."
         }
-        ]
+      ],
+      "history": "Other is one of the most renowned football leagues, known for its competitive nature and world-class teams."
+    },
+    {
+      "id": "premier",
+      "name": "Premier",
+      "teams": [
+        {
+          "id": "arsenal",
+          "name": "Arsenal",
+          "seasons": [
+            {
+              "year": "1990-91",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/1990-91/home/arsenal90-91.JPG",
+                  "technical_sponsor": "Nike",
+                  "colors": "red-white",
+                  "description": "Arsenal's 1990-91 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "1991-92",
+              "jerseys": [
+                {
+                  "type": "Away",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/1991-92/away/arsenal91-92.jpg",
+                  "technical_sponsor": "Nike",
+                  "colors": "red-white",
+                  "description": "Arsenal's 1991-92 Away jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "1993-94",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/1993-94/home/arsenal93-94.jpeg",
+                  "technical_sponsor": "Nike",
+                  "colors": "red-white",
+                  "description": "Arsenal's 1993-94 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "1994-95",
+              "jerseys": [
+                {
+                  "type": "Away",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/1994-95/away/arsenal94-95.JPG",
+                  "technical_sponsor": "Nike",
+                  "colors": "red-white",
+                  "description": "Arsenal's 1994-95 Away jersey was worn in an important season for the club."
+                },
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/1994-95/home/arsenal94-95.JPG",
+                  "technical_sponsor": "Nike",
+                  "colors": "red-white",
+                  "description": "Arsenal's 1994-95 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "1997-98",
+              "jerseys": [
+                {
+                  "type": "Away",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/1997-98/away/arsenal97-98.jpg",
+                  "technical_sponsor": "Nike",
+                  "colors": "red-white",
+                  "description": "Arsenal's 1997-98 Away jersey was worn in an important season for the club."
+                },
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/1997-98/home/arsenal97-98.jpg",
+                  "technical_sponsor": "Nike",
+                  "colors": "red-white",
+                  "description": "Arsenal's 1997-98 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "1998-99",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/1998-99/home/arsenal98-99.JPG",
+                  "technical_sponsor": "Nike",
+                  "colors": "red-white",
+                  "description": "Arsenal's 1998-99 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2001-02",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/2001-02/home/arsenal01-02.jpg",
+                  "technical_sponsor": "Nike",
+                  "colors": "red-white",
+                  "description": "Arsenal's 2001-02 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2003-04",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/2003-04/home/ars03-04.JPG",
+                  "technical_sponsor": "Nike",
+                  "colors": "red-white",
+                  "description": "Arsenal's 2003-04 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2005-06",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/2005-06/home/arsenal05-06.JPG",
+                  "technical_sponsor": "Nike",
+                  "colors": "red-white",
+                  "description": "Arsenal's 2005-06 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2007-08",
+              "jerseys": [
+                {
+                  "type": "Away",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/2007-08/away/arsenal07-08.jpg",
+                  "technical_sponsor": "Nike",
+                  "colors": "red-white",
+                  "description": "Arsenal's 2007-08 Away jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2008-09",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/2008-09/home/arsenal08-09.jpeg",
+                  "technical_sponsor": "Nike",
+                  "colors": "red-white",
+                  "description": "Arsenal's 2008-09 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2014-15",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/2014-15/home/arsenal14-15.jpeg",
+                  "technical_sponsor": "Nike",
+                  "colors": "red-white",
+                  "description": "Arsenal's 2014-15 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2022-23",
+              "jerseys": [
+                {
+                  "type": "Away",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/2022-23/away/arsena22-23.jpg",
+                  "technical_sponsor": "Nike",
+                  "colors": "red-white",
+                  "description": "Arsenal's 2022-23 Away jersey was worn in an important season for the club."
+                },
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/2022-23/home/arsenal2022-23.jpeg",
+                  "technical_sponsor": "Nike",
+                  "colors": "red-white",
+                  "description": "Arsenal's 2022-23 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2023-24",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/2023-24/home/arsenal23-24.jpeg",
+                  "technical_sponsor": "Nike",
+                  "colors": "red-white",
+                  "description": "Arsenal's 2023-24 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2024-25",
+              "jerseys": [
+                {
+                  "type": "Away",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/2024-25/away/arsenal24-25.jpeg",
+                  "technical_sponsor": "Nike",
+                  "colors": "red-white",
+                  "description": "Arsenal's 2024-25 Away jersey was worn in an important season for the club."
+                },
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/2024-25/home/arsenal24-25.jpg",
+                  "technical_sponsor": "Nike",
+                  "colors": "red-white",
+                  "description": "Arsenal's 2024-25 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "premier/arsenal/arsenallogo.png",
+          "history": "Arsenal is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        },
+        {
+          "id": "blackburn",
+          "name": "Blackburn",
+          "seasons": [
+            {
+              "year": "1994-95",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/blackburn/1994-95/home/blac94-95.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Blackburn's 1994-95 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "premier/blackburn/blackburnlogo.png",
+          "history": "Blackburn is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        },
+        {
+          "id": "chelsea",
+          "name": "Chelsea",
+          "seasons": [
+            {
+              "year": "1997-98",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/chelsea/1997-98/home/chelsea97-98.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Chelsea's 1997-98 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2011-12",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/chelsea/2011-12/home/chelsea11-12.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Chelsea's 2011-12 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2021-22",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/chelsea/2021-22/home/chelsea 21-22.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Chelsea's 2021-22 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2024-25",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/chelsea/2024-25/home/chelsea24-25.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Chelsea's 2024-25 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "history": "Chelsea is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        },
+        {
+          "id": "leeds",
+          "name": "Leeds",
+          "seasons": [
+            {
+              "year": "2000-01",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/leeds/2000-01/home/leeds00-01.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Leeds's 2000-01 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "premier/leeds/leedslogo.png",
+          "history": "Leeds is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        },
+        {
+          "id": "leicester",
+          "name": "Leicester",
+          "seasons": [
+            {
+              "year": "2014-15",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/leicester/2014-15/home/leicester14-15.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Leicester's 2014-15 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "premier/leicester/leicesterlogo.png",
+          "history": "Leicester is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        },
+        {
+          "id": "liverpool",
+          "name": "Liverpool",
+          "seasons": [
+            {
+              "year": "1993-94",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/liverpool/1993-94/home/liver93-94.JPG",
+                  "technical_sponsor": "Adidas",
+                  "colors": "red-white",
+                  "description": "Liverpool's 1993-94 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "1995-96",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/liverpool/1995-96/home/liver95-96.JPG",
+                  "technical_sponsor": "Adidas",
+                  "colors": "red-white",
+                  "description": "Liverpool's 1995-96 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "1996-97",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/liverpool/1996-97/home/liver96-97.JPG",
+                  "technical_sponsor": "Adidas",
+                  "colors": "red-white",
+                  "description": "Liverpool's 1996-97 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2000-01",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/liverpool/2000-01/home/liverpool00-01.jpg",
+                  "technical_sponsor": "Adidas",
+                  "colors": "red-white",
+                  "description": "Liverpool's 2000-01 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2024-25",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/liverpool/2024-25/home/liverpool24-25.jpg",
+                  "technical_sponsor": "Adidas",
+                  "colors": "red-white",
+                  "description": "Liverpool's 2024-25 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "premier/liverpool/liverpoollogo.png",
+          "history": "Liverpool is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        },
+        {
+          "id": "mancity",
+          "name": "Mancity",
+          "seasons": [
+            {
+              "year": "2024-25",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/mancity/2024-25/home/mancity24-25.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Mancity's 2024-25 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "premier/mancity/manchestercitylogo.png",
+          "history": "Mancity is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        },
+        {
+          "id": "manun",
+          "name": "Manun",
+          "seasons": [
+            {
+              "year": "1986-87",
+              "jerseys": [
+                {
+                  "type": "Away",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/1986-87/away/manun86-87.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Manun's 1986-87 Away jersey was worn in an important season for the club."
+                },
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/1986-87/home/manun86-87.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Manun's 1986-87 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "1990-91",
+              "jerseys": [
+                {
+                  "type": "Away",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/1990-91/away/manun90-91.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Manun's 1990-91 Away jersey was worn in an important season for the club."
+                },
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/1990-91/home/manun90-91.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Manun's 1990-91 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "1993-94",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/1993-94/home/manun93-94.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Manun's 1993-94 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "1994-95",
+              "jerseys": [
+                {
+                  "type": "Away",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/1994-95/away/manun94-95.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Manun's 1994-95 Away jersey was worn in an important season for the club."
+                },
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/1994-95/home/manun94-95.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Manun's 1994-95 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2000-01",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/2000-01/home/manun00-01.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Manun's 2000-01 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2002-03",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/2002-03/home/manun02-03.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Manun's 2002-03 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2004-05",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/2004-05/home/manun04-05.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Manun's 2004-05 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2006-07",
+              "jerseys": [
+                {
+                  "type": "Away",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/2006-07/away/manun-06-07.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Manun's 2006-07 Away jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2008-09",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/2008-09/home/manun08-09.jpeg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Manun's 2008-09 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2012-13",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/2012-13/home/manun12-13.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Manun's 2012-13 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2023-24",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/2023-24/home/maun23-24.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Manun's 2023-24 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "premier/manun/manunlogo.png",
+          "history": "Manun is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        },
+        {
+          "id": "tottenham",
+          "name": "Tottenham",
+          "seasons": [
+            {
+              "year": "1995-96",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/tottenham/1995-96/home/tottenham95-96.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Tottenham's 1995-96 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "premier/tottenham/tottenhamlogo.png",
+          "history": "Tottenham is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        },
+        {
+          "id": "westham",
+          "name": "Westham",
+          "seasons": [
+            {
+              "year": "1999-00",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/westham/1999-00/home/IMG_5192.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Westham's 1999-00 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "premier/westham/westhamlogo.png",
+          "history": "Westham is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        }
+      ],
+      "history": "Premier is one of the most renowned football leagues, known for its competitive nature and world-class teams."
+    },
+    {
+      "id": "seriea",
+      "name": "Seriea",
+      "teams": [
+        {
+          "id": "atalanta",
+          "name": "Atalanta",
+          "seasons": [
+            {
+              "year": "1996-97",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/atalanta/1996-97/home/atalanta96-97.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Atalanta's 1996-97 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "seriea/atalanta/atalantalogo.png",
+          "history": "Atalanta is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        },
+        {
+          "id": "fiorentina",
+          "name": "Fiorentina",
+          "seasons": [
+            {
+              "year": "1999-00",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/fiorentina/1999-00/home/fio 99-00.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Fiorentina's 1999-00 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "seriea/fiorentina/fiorentinalogo.png",
+          "history": "Fiorentina is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        },
+        {
+          "id": "inter",
+          "name": "Inter",
+          "seasons": [
+            {
+              "year": "1992-93",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/inter/1992-93/home/inter92-93.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Inter's 1992-93 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "1997-98",
+              "jerseys": [
+                {
+                  "type": "Away",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/inter/1997-98/away/inter97-98.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Inter's 1997-98 Away jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "1998-99",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/inter/1998-99/home/inter98-99.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Inter's 1998-99 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2004-05",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/inter/2004-05/home/inter04-05.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Inter's 2004-05 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "seriea/inter/interlogo.png",
+          "history": "Inter is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        },
+        {
+          "id": "juventus",
+          "name": "Juventus",
+          "seasons": [
+            {
+              "year": "1998-99",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/juventus/1998-99/home/juve98-99.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Juventus's 1998-99 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "1999-00",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/juventus/1999-00/home/juve 99-00.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Juventus's 1999-00 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2004-05",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/juventus/2004-05/home/juve04-05.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Juventus's 2004-05 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2011-12",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/juventus/2011-12/home/juve11-12.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Juventus's 2011-12 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "seriea/juventus/juventuslogo.png",
+          "history": "Juventus is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        },
+        {
+          "id": "lazio",
+          "name": "Lazio",
+          "seasons": [
+            {
+              "year": "1998-99",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/lazio/1998-99/home/lazio98-99.jpg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Lazio's 1998-99 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "seriea/lazio/laziologo.png",
+          "history": "Lazio is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        },
+        {
+          "id": "milan",
+          "name": "Milan",
+          "seasons": [
+            {
+              "year": "1996-97",
+              "jerseys": [
+                {
+                  "type": "Away",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/milan/1996-97/away/milan96-97.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Milan's 1996-97 Away jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "1999-00",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/milan/1999-00/home/milan1999-00.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Milan's 1999-00 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2008-09",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/milan/2008-09/home/milan08-09.jpeg",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Milan's 2008-09 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2011-12",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/milan/2011-12/home/milan11-12.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Milan's 2011-12 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "seriea/milan/milanlogo.png",
+          "history": "Milan is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        },
+        {
+          "id": "parma",
+          "name": "Parma",
+          "seasons": [
+            {
+              "year": "1999-00",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/parma/1999-00/home/parma99-00.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Parma's 1999-00 Home jersey was worn in an important season for the club."
+                }
+              ]
+            },
+            {
+              "year": "2002-03",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/parma/2002-03/home/parma02-03.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Parma's 2002-03 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "seriea/parma/parmalogo.png",
+          "history": "Parma is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        },
+        {
+          "id": "rome",
+          "name": "Rome",
+          "seasons": [
+            {
+              "year": "1998-99",
+              "jerseys": [
+                {
+                  "type": "Home",
+                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/rome/1998-99/home/rome98-99.JPG",
+                  "technical_sponsor": "Unknown",
+                  "colors": "unknown",
+                  "description": "Rome's 1998-99 Home jersey was worn in an important season for the club."
+                }
+              ]
+            }
+          ],
+          "logo": "seriea/rome/romalogo.png",
+          "history": "Rome is a historic club with a rich tradition, notable achievements, and a passionate fan base."
+        }
+      ],
+      "history": "Seriea is one of the most renowned football leagues, known for its competitive nature and world-class teams."
     }
-    ]
+  ]
 }
