@@ -1,415 +1,512 @@
 {
-  "leagues": [
+    "leagues": [
     {
-      "id": "Premier League",
-      "name": "Premier League",
-      "history": "The Premier League is the top level of the English football league system. Since its inception in 1992, it has become one of the most watched leagues globally.",
-      "teams": [
+        "id": "Premier League",
+        "name": "Premier League",
+        "history": "The Premier League, founded in 1992, quickly became one of the most watched and commercially powerful football competitions in the world. It features clubs with large global followings and has produced many legendary teams and players. Its competitive balance and financial scale have transformed modern football.",
+        "teams": [
         {
-          "id": "Arsenal",
-          "name": "Arsenal",
-          "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/arsenallogo.png",
-          "history": "Arsenal Football Club, based in London, is one of the most successful clubs in English football history with 13 league titles.",
-          "seasons": [
+            "id": "Arsenal",
+            "name": "Arsenal",
+            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/arsenallogo.png",
+            "history": "Arsenal Football Club, based in North London, is one of England's most storied clubs with a long tradition of attractive football. The club has won multiple league titles, FA Cups and produced iconic players. Under Arsène Wenger the club modernized its style and global reach, culminating in the unbeaten 'Invincibles' season of 2003–04.",
+            "seasons": [
             {
-              "year": "1990-1991",
-              "jerseys": [
+                "year": "1990-1991",
+                "jerseys": [
                 {
-                  "type": "Home",
-                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/1990-91/home/arsenal90-91.JPG",
-                  "description": "Arsenal's 1990–91 jersey is a symbol of dominance and resilience. Under George Graham, the Gunners lost just one league game all season and clinched the First Division title with 83 points. The bold yellow zig-zag away kit became iconic, and the team was known for its solid defense and tactical discipline. A true championship shirt from a near-invincible season."
+                    "type": "Home",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/1990-91/home/arsenal90-91.JPG",
+                    "technical_sponsor": "Umbro",
+                    "colors": "red-white",
+                    "description": "Arsenal's 1990–91 jersey is a symbol of dominance and resilience. Under George Graham, Arsenal lost just one league game all season and clinched the First Division title with 83 points — a major achievement while wearing this shirt."
                 }
-              ]
+                ]
             },
             {
-              "year": "1993-1994",
-              "jerseys": [
+                "year": "1993-1994",
+                "jerseys": [
                 {
-                  "type": "Home",
-                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/1993-94/home/ars93-94.JPG",
-                  "description": "This season’s kit represents European glory. Arsenal, led by George Graham, won the UEFA Cup Winners' Cup by defeating Parma 1–0 in the final. The team played with grit and structure, embodying the essence of English football in Europe. The red home shirt was worn by legends like Ian Wright and Alan Smith during one of the club’s most memorable European triumphs."
+                    "type": "Home",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/1993-94/home/ars93-94.JPG",
+                    "technical_sponsor": "Umbro",
+                    "colors": "red-white",
+                    "description": "This red home shirt was worn during Arsenal's successful European Cup Winners' Cup campaign; the club beat Parma 1–0 in the final to secure the trophy, marking a high point in their early-90s European outings."
                 }
-              ]
+                ]
             },
             {
-              "year": "2003-2004",
-              "jerseys": [
+                "year": "2003-2004",
+                "jerseys": [
                 {
-                  "type": "Home",
-                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/2003-04/home/ars03-04.JPG",
-                  "description": "Arguably the most iconic Arsenal jersey ever. In the 2003–04 season, Arsenal went the entire Premier League campaign unbeaten — 26 wins and 12 draws — becoming “The Invincibles.” Led by Arsène Wenger and powered by Thierry Henry, Patrick Vieira, and Dennis Bergkamp, this shirt is forever tied to one of the greatest achievements in English football history."
+                    "type": "Home",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/2003-04/home/ars03-04.JPG",
+                    "technical_sponsor": "Nike",
+                    "colors": "red-white",
+                    "description": "Arguably the most iconic Arsenal jersey ever. Worn during the 'Invincibles' season — Arsenal went unbeaten in the Premier League (26 wins, 12 draws) and captured the title under Arsène Wenger; this shirt is forever linked to that historic achievement."
                 }
-              ]
+                ]
             },
             {
-              "year": "2022-2023",
-              "jerseys": [
+                "year": "2022-2023",
+                "jerseys": [
                 {
-                  "type": "Home",
-                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/2022-23/home/arsenal2022-23.jpeg",
-                  "description": "The 2022–23 Arsenal jersey marked the return of hope and excitement to the Emirates. Under Mikel Arteta, the Gunners led the Premier League table for most of the season and played energetic, attractive football. While they ultimately finished 2nd behind Manchester City, this season reignited the belief in a new generation of Arsenal stars, including Bukayo Saka and Martin Ødegaard."
+                    "type": "Home",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/2022-23/home/arsenal2022-23.jpeg",
+                    "technical_sponsor": "Adidas",
+                    "colors": "red-white",
+                    "description": "The 2022–23 home jersey was worn in a season that marked Arsenal's return to title contention under Mikel Arteta. The team played attractive, high-energy football and finished second in the Premier League, re-igniting hopes for sustained success."
                 }
-              ]
+                ]
             },
             {
-              "year": "1998-1999",
-              "jerseys": [
+                "year": "1998-1999",
+                "jerseys": [
                 {
-                  "type": "Home",
-                  "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/1998-99/home/arsenal98-99.JPG",
-                  "description": "Arsenal's 1998-1999 jersey: Finished 2nd in the Premier League, narrowly missing the title."
+                    "type": "Home",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/arsenal/1998-99/home/arsenal98-99.JPG",
+                    "technical_sponsor": "Nike",
+                    "colors": "red-white",
+                    "description": "Arsenal's 1998–99 home shirt was used in a season where the team finished near the top of the table, narrowly missing the title but consolidating itself as a consistent Premier League challenger."
                 }
-              ]
+                ]
             }
-          ]
+            ]
         },
         {
-          "id": "Liverpool",
-          "name": "Liverpool",
-          "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/liverpool/liverpoollogo.png",
-          "seasons": [
+            "id": "Liverpool",
+            "name": "Liverpool",
+            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/liverpool/liverpoollogo.png",
+            "history": "Liverpool FC is one of England's most decorated clubs, boasting numerous league titles and European Cups. Known for their passionate fanbase and historic Anfield atmosphere, Liverpool has produced many legendary teams and managers. The club's identity is closely tied to its red home kit and global popularity.",
+            "seasons": [
             {
-              "year": "1993-1994",
-              "jerseys": [
+                "year": "1993-1994",
+                "jerseys": [
                 {
-                  "type": "Home",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/premier/liverpool/1993-94/home/liver93-94.JPG",
-                  "description": "Liverpool's 1993-1994 jersey: Transition year under Graeme Souness."
+                    "type": "Home",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/liverpool/1993-94/home/liver93-94.JPG",
+                    "technical_sponsor": "Adidas",
+                    "colors": "red-white",
+                    "description": "Liverpool's 1993–94 home jersey was worn in a transitional season as the club navigated managerial and squad changes while remaining a prominent force in English football."
                 }
-              ]
+                ]
             },
             {
-              "year": "1995-1996",
-              "jerseys": [
+                "year": "1995-1996",
+                "jerseys": [
                 {
-                  "type": "Home",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/premier/liverpool/1995-96/home/liver95-96.JPG",
-                  "description": "Liverpool's 1995-1996 jersey: Finished 3rd in Premier League; famous white suits in FA Cup final."
+                    "type": "Home",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/liverpool/1995-96/home/liver95-96.JPG",
+                    "technical_sponsor": "Reebok",
+                    "colors": "red-white",
+                    "description": "Liverpool's 1995–96 kit was worn as the club pushed for top finishes; the season included a strong cup run and the emergence of a new generation of attacking talent."
                 }
-              ]
+                ]
             },
             {
-              "year": "1996-1997",
-              "jerseys": [
+                "year": "1996-1997",
+                "jerseys": [
                 {
-                  "type": "Home",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/premier/liverpool/1996-97/home/liver96-97.JPG",
-                  "description": "Liverpool's 1996-1997 jersey: Title contenders, finished 4th with young stars like Fowler and Owen."
+                    "type": "Home",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/liverpool/1996-97/home/liver96-97.JPG",
+                    "technical_sponsor": "Reebok",
+                    "colors": "red-white",
+                    "description": "The 1996–97 home shirt was used in a campaign where Liverpool contested near the top of the table and showcased future stars while rebuilding towards European ambitions."
                 }
-              ]
+                ]
             }
-          ],
-          "history": "Liverpool FC has a rich history with 19 league titles and 6 European Cups, making it one of the most decorated clubs in the world."
+            ]
         },
         {
-          "id": "Manchester United",
-          "name": "Manchester United",
-          "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/manunlogo.png",
-          "seasons": [
+            "id": "Manchester United",
+            "name": "Manchester United",
+            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/manunlogo.png",
+            "history": "Manchester United is one of the world's most famous football clubs, with many Premier League titles and multiple Champions League triumphs. Under Sir Alex Ferguson the club dominated English football for decades, producing legendary players and a global brand. The red home shirts are emblematic of the club's identity and history.",
+            "seasons": [
             {
-              "year": "1986-1987",
-              "jerseys": [
+                "year": "1986-1987",
+                "jerseys": [
                 {
-                  "type": "Home",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/premier/manun/1986-87/home/manun86-87.JPG",
-                  "description": "Manchester United's 1986-1987 jersey: Start of Sir Alex Ferguson's era."
+                    "type": "Home",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/1986-87/home/manun86-87.JPG",
+                    "technical_sponsor": "Umbro",
+                    "colors": "red-white",
+                    "description": "Manchester United's 1986–87 shirts were worn at the beginning of Sir Alex Ferguson's tenure, a season that marked the start of the club's prolonged period of rebuilding and eventual dominance."
                 },
                 {
-                  "type": "Away",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/premier/manun/1986-87/away/manun86-87.JPG",
-                  "description": "Manchester United's 1986-1987 jersey: Start of Sir Alex Ferguson's era."
+                    "type": "Away",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/1986-87/away/manun86-87.JPG",
+                    "technical_sponsor": "Umbro",
+                    "colors": "white-red",
+                    "description": "The away shirt for 1986–87 accompanied a pivotal season as the club set foundations for future success under the new manager."
                 }
-              ]
+                ]
             },
             {
-              "year": "1990-1991",
-              "jerseys": [
+                "year": "1990-1991",
+                "jerseys": [
                 {
-                  "type": "Away",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/premier/manun/1990-91/away/manun90-91.JPG",
-                  "description": "Manchester United's 1990-1991 jersey: Won the UEFA Cup Winners' Cup."
+                    "type": "Away",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/1990-91/away/manun90-91.JPG",
+                    "technical_sponsor": "Umbro",
+                    "colors": "white-red",
+                    "description": "The 1990–91 away kit was worn as United consolidated under Ferguson, building a squad that would soon claim multiple domestic titles and European success."
                 }
-              ]
+                ]
             },
             {
-              "year": "1994-1995",
-              "jerseys": [
+                "year": "1994-1995",
+                "jerseys": [
                 {
-                  "type": "Home",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/premier/manun/1994-95/home/manun94-95.JPG",
-                  "description": "Manchester United's 1994-1995 jersey: Finished second in Premier League; Eric Cantona suspension season."
+                    "type": "Home",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/1994-95/home/manun94-95.JPG",
+                    "technical_sponsor": "Umbro",
+                    "colors": "red-white",
+                    "description": "United's 1994–95 home shirt was used during a season of highs and lows, with the club finishing strongly in the league and developing the squad that would collect future trophies."
                 }
-              ]
+                ]
             },
             {
-              "year": "2023-2024",
-              "jerseys": [
+                "year": "2023-2024",
+                "jerseys": [
                 {
-                  "type": "Home",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/premier/manun/2023-24/home/maun23-24.JPG",
-                  "description": "Manchester United's 2023-2024 jersey: Returned to Champions League under Ten Hag."
+                    "type": "Home",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/premier/manun/2023-24/home/maun23-24.JPG",
+                    "technical_sponsor": "Adidas",
+                    "colors": "red-white",
+                    "description": "The 2023–24 home jersey was worn in a season that saw Manchester United return to the Champions League under Erik ten Hag, reflecting a period of rebuilding and renewed competitiveness."
                 }
-              ]
+                ]
             }
-          ],
-          "history": "Manchester United is one of the most popular and successful football clubs globally, with 20 league titles and 3 Champions League trophies."
+            ]
         }
-      ]
+        ]
     },
     {
-      "id": "laliga",
-      "name": "La Liga",
-      "teams": [
+        "id": "La Liga",
+        "name": "La Liga",
+        "history": "La Liga is Spain's top professional football division, known for technical football, world-class talents and the rise of clubs with extensive European success. Over decades it has produced multiple Ballon d'Or winners and dominant teams in European competitions.",
+        "teams": [
         {
-          "id": "FC Barcelona",
-          "name": "FC Barcelona",
-          "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/Barcelona/barcalogo.png",
-          "seasons": [
+            "id": "FC Barcelona",
+            "name": "FC Barcelona",
+            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/Barcelona/barcalogo.png",
+            "history": "FC Barcelona is renowned for its attacking philosophy, La Masia academy and a trophy-rich history. The club's identity blends Catalan culture with global sporting success, and Barca has produced many of football's greatest players.",
+            "seasons": [
             {
-              "year": "1998-1999",
-              "jerseys": [
+                "year": "1998-1999",
+                "jerseys": [
                 {
-                  "type": "Away",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/laliga/barcelona/1998-99/away/away.JPG",
-                  "description": "FC Barcelona's 1998-1999 jersey was worn during a notable season."
+                    "type": "Away",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/barcelona/1998-99/away/away.JPG",
+                    "technical_sponsor": "Nike",
+                    "colors": "blue-maroon",
+                    "description": "Barcelona's 1998–99 away jersey was used in a season of transition; the club sought domestic consistency and prepared for the success that would follow in the next decade."
                 }
-              ]
+                ]
             },
             {
-              "year": "2001-2002",
-              "jerseys": [
+                "year": "2001-2002",
+                "jerseys": [
                 {
-                  "type": "Home",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/laliga/barcelona/2001-02/home/home.JPG",
-                  "description": "FC Barcelona's 2001-2002 jersey was worn during a notable season."
+                    "type": "Home",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/barcelona/2001-02/home/home.JPG",
+                    "technical_sponsor": "Nike",
+                    "colors": "blue-maroon",
+                    "description": "The 2001–02 home kit accompanied seasons of rebuilding and squad changes as Barcelona aimed to reclaim domestic dominance and compete strongly in Europe."
                 }
-              ]
+                ]
             }
-          ],
-          "history": "FC Barcelona is a Spanish club known for its beautiful attacking football and a record number of trophies in Spanish football."
+            ]
         },
         {
-          "id": "Real Madrid",
-          "name": "Real Madrid",
-          "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/real/reallogo.png",
-          "seasons": [
+            "id": "Real Madrid",
+            "name": "Real Madrid",
+            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/real/reallogo.png",
+            "history": "Real Madrid is Europe's most decorated club with a record number of Champions League titles. The club has a long tradition of signing world-class stars and pursuing domestic and continental success, defining much of modern football's history.",
+            "seasons": [
             {
-              "year": "2000-2001",
-              "jerseys": [
+                "year": "2000-2001",
+                "jerseys": [
                 {
-                  "type": "Home",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/laliga/real/2000-01/home/real00-01.JPG",
-                  "description": "Real Madrid's 2000-2001 jersey: Won La Liga with stars like Figo and Raúl."
+                    "type": "Home",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/laliga/real/2000-01/home/real00-01.JPG",
+                    "technical_sponsor": "Adidas",
+                    "colors": "white",
+                    "description": "Real Madrid's 2000–01 home shirt was worn in a season where the club captured La Liga with stars like Luis Figo and Raúl, reaffirming their domestic dominance."
                 }
-              ]
+                ]
             }
-          ],
-          "history": "Real Madrid is the most successful club in European football history, with 14 UEFA Champions League titles."
+            ]
         }
-      ],
-      "history": "La Liga, officially known as the Primera División, is the top professional football division of the Spanish football league system."
+        ]
     },
     {
-      "id": "seriea",
-      "name": "Serie A",
-      "teams": [
+        "id": "Serie A",
+        "name": "Serie A",
+        "history": "Serie A, Italy's top division, is known for tactical rigor, defensively strong sides and historic clubs with European pedigrees. The league has produced many world-class defenders and managers and remains a crucial part of football's tactical evolution.",
+        "teams": [
         {
-          "id": "Inter Milan",
-          "name": "Inter Milan",
-          "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/inter/interlogo.png",
-          "seasons": [
+            "id": "Inter Milan",
+            "name": "Inter Milan",
+            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/inter/interlogo.png",
+            "history": "Inter Milan (Internazionale) is one of Italy's most successful clubs with multiple Serie A titles and European trophies. The club is historically associated with the blue-and-black stripes and has a global fan base.",
+            "seasons": [
             {
-              "year": "1997-1998",
-              "jerseys": [
+                "year": "1997-1998",
+                "jerseys": [
                 {
-                  "type": "Away",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/seriea/inter/1997-98/inter97-98.JPG",
-                  "description": "Inter Milan's 1997-1998 jersey was worn during a notable season."
+                    "type": "Away",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/inter/1997-98/away/inter97-98.JPG",
+                    "technical_sponsor": "Umbro",
+                    "colors": "white-blue",
+                    "description": "Inter's 1997–98 away jersey was worn in a season of domestic and cup ambition; the club pursued top positions in Serie A while maintaining strong European aspirations."
                 }
-              ]
+                ]
             },
             {
-              "year": "1998-1999",
-              "jerseys": [
+                "year": "1998-1999",
+                "jerseys": [
                 {
-                  "type": "Home",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/seriea/inter/1998-99/inter98-99.JPG",
-                  "description": "Inter Milan's 1998-1999 jersey was worn during a notable season."
+                    "type": "Home",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/inter/1998-99/home/inter98-99.JPG",
+                    "technical_sponsor": "Umbro",
+                    "colors": "blue-black",
+                    "description": "Inter's 1998–99 home shirt featured the iconic Pirelli-sponsored identity as the club competed at a high level in Serie A, contesting the title race and European competitions."
                 }
-              ]
+                ]
             }
-          ],
-          "history": "Inter Milan is a historic Italian club, known for winning numerous Serie A titles and Champions League trophies."
+            ]
         },
         {
-          "id": "AS Roma",
-          "name": "AS Roma",
-          "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/rome/romalogo.png",
-          "seasons": [
+            "id": "AS Roma",
+            "name": "AS Roma",
+            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/rome/romalogo.png",
+            "history": "AS Roma is a historic Roman club with passionate fans, regular top-flight presence and memorable seasons in domestic and European competition. The club's colors, maroon and gold, express its regional pride.",
+            "seasons": [
             {
-              "year": "1998-1999",
-              "jerseys": [
+                "year": "1998-1999",
+                "jerseys": [
                 {
-                  "type": "Home",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/seriea/rome/1998-99/rome98-99.JPG",
-                  "description": "AS Roma's 1998-1999 jersey was worn during a notable season."
+                    "type": "Home",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/seriea/rome/1998-99/home/rome98-99.JPG",
+                    "technical_sponsor": "Kappa",
+                    "colors": "maroon-gold",
+                    "description": "Roma's 1998–99 home shirt was worn in a season where the club maintained a strong Serie A presence and produced memorable domestic performances."
                 }
-              ]
+                ]
             }
-          ],
-          "history": "AS Roma is a major Italian club with passionate fans and a rich footballing history."
+            ]
         }
-      ],
-      "history": "Serie A is the top professional football league in Italy, known for its tactical style and home to many historic clubs."
+        ]
     },
     {
-      "id": "national",
-      "name": "National Teams",
-      "teams": [
+        "id": "National Teams",
+        "name": "National Teams",
+        "history": "This collection gathers iconic national teams with deep international histories. Each team has left its mark on World Cups and continental tournaments, showcasing unique playing styles and producing legendary talents.",
+        "teams": [
         {
-          "id": "Brazil",
-          "name": "Brazil",
-          "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/brazil/brazillogo.png",
-          "seasons": [
+            "id": "Brazil",
+            "name": "Brazil",
+            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/brazil/brazillogo.png",
+            "history": "Brazil is the most successful nation in World Cup history with five titles, known for its creative, attacking football and generation-spanning talents from Pelé to Neymar. The yellow home kit is one of football's most recognizable symbols.",
+            "seasons": [
             {
-              "year": "2009-2010",
-              "jerseys": [
+                "year": "2009-2010",
+                "jerseys": [
                 {
-                  "type": "Home",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/national/brazil/2009-10/home/brazil09-10.JPG",
-                  "description": "Brazil's 2009-2010 jersey: Won the 2009 Confederations Cup; pre-World Cup form."
+                    "type": "Home",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/brazil/2009-10/home/brazil09-10.JPG",
+                    "technical_sponsor": "Nike",
+                    "colors": "yellow-green",
+                    "description": "Worn during Brazil’s successful 2009 Confederations Cup campaign and in the lead-up to the 2010 World Cup; the shirt represents a squad filled with attacking talents and international pedigree."
                 }
-              ]
+                ]
             }
-          ],
-          "history": "Brazil's national team is the most successful in World Cup history with 5 titles and a legacy of flair and creativity."
+            ]
         },
         {
-          "id": "Germany",
-          "name": "Germany",
-          "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/germany/germanylogo.png",
-          "seasons": [
+            "id": "Germany",
+            "name": "Germany",
+            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/germany/germanylogo.png",
+            "history": "Germany is a powerhouse of international football with four World Cup wins and a culture of efficiency and tactical discipline. The national team consistently develops strong squads and competes at the highest level.",
+            "seasons": [
             {
-              "year": "2013-2014",
-              "jerseys": [
+                "year": "2013-2014",
+                "jerseys": [
                 {
-                  "type": "Away",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/national/germany/2013-14/away/gemany13-14.JPG",
-                  "description": "Germany's 2013-2014 jersey: Won the 2014 FIFA World Cup in Brazil."
+                    "type": "Away",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/germany/2013-14/away/gemany13-14.JPG",
+                    "technical_sponsor": "Adidas",
+                    "colors": "white-black",
+                    "description": "The 2013–14 away shirt was part of the era that culminated in Germany winning the 2014 FIFA World Cup in Brazil — a tournament defined by strong team cohesion and clinical performances."
                 }
-              ]
+                ]
             }
-          ],
-          "history": "Germany is a powerhouse in international football, with 4 World Cups and a tradition of discipline and excellence."
+            ]
         },
         {
-          "id": "Portugal",
-          "name": "Portugal",
-          "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/portugal/portugallogo.png",
-          "seasons": [
+            "id": "Portugal",
+            "name": "Portugal",
+            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/portugal/portugallogo.png",
+            "history": "Portugal rose to major international prominence in the 21st century, claiming the UEFA European Championship in 2016 and the inaugural Nations League in 2019. The national side is known for producing technically gifted attackers and tactically astute squads.",
+            "seasons": [
             {
-              "year": "1992-1993",
-              "jerseys": [
+                "year": "1992-1993",
+                "jerseys": [
                 {
-                  "type": "Home",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/national/portugal/1992-93/home/portugal92-93.JPG",
-                  "description": "Portugal's 1992-1993 jersey: Showed promise with rising young stars."
+                    "type": "Home",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/portugal/1992-93/home/portugal92-93.JPG",
+                    "technical_sponsor": "Nike",
+                    "colors": "red-green",
+                    "description": "Portugal's 1992–93 home shirt accompanied a period of rising talent and optimism as the national team began to produce a wave of players who would define its future successes."
                 }
-              ]
+                ]
             }
-          ],
-          "history": "Portugal has risen to prominence in the 21st century, winning the Euro 2016 and Nations League in 2019."
+            ]
         },
         {
-          "id": "Spain",
-          "name": "Spain",
-          "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/spain/spainlogo.png",
-          "seasons": [
+            "id": "Spain",
+            "name": "Spain",
+            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/spain/spainlogo.png",
+            "history": "Spain's national team experienced a golden era between 2008 and 2012, winning Euro 2008, the 2010 World Cup and Euro 2012. The team is celebrated for technical prowess, possession-based football and a succession of elite midfielders.",
+            "seasons": [
             {
-              "year": "2009-2010",
-              "jerseys": [
+                "year": "2009-2010",
+                "jerseys": [
                 {
-                  "type": "Home",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/national/sapin/2009-10/home/spain09-10.JPG",
-                  "description": "Spain's 2009-2010 jersey: Won the 2010 FIFA World Cup in South Africa."
+                    "type": "Home",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/national/spain/2009-10/home/spain09-10.JPG",
+                    "technical_sponsor": "Adidas",
+                    "colors": "red-yellow",
+                    "description": "This home shirt was used in the period where Spain captured the 2010 FIFA World Cup — the peak of an exceptional national generation known for dominance in possession and control."
                 }
-              ]
+                ]
             }
-          ],
-          "history": "Spain's golden generation won Euro 2008, World Cup 2010, and Euro 2012, setting a new standard for dominance."
+            ]
         }
-      ],
-      "history": "A collection of the world's most iconic national football teams, each with its own rich international history."
+        ]
     },
     {
-      "id": "other",
-      "name": "Other Clubs",
-      "teams": [
+        "id": "Other Clubs",
+        "name": "Other Clubs",
+        "history": "A collection of storied clubs from different countries and leagues, each with unique traditions. These clubs often have strong local support and a history of domestic success and memorable European campaigns.",
+        "teams": [
         {
-          "id": "Celtic FC",
-          "name": "Celtic FC",
-          "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/master/other/celtic/celticlogo.png",
-          "seasons": [
+            "id": "Celtic FC",
+            "name": "Celtic FC",
+            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/master/other/celtic/celticlogo.png",
+            "history": "Celtic Football Club, based in Glasgow, is one of Scotland's most successful clubs, famous for their green-and-white hoops and passionate supporters. They have won numerous Scottish league titles and cups and have a strong European history including the 1967 European Cup.",
+            "seasons": [
             {
-              "year": "1989-1990",
-              "jerseys": [
+                "year": "1989-1990",
+                "jerseys": [
                 {
-                  "type": "Home",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/other/celtic/1999-00/home/celtic89-90.JPG",
-                  "description": "Celtic FC's 1989-1990 jersey was worn during a notable season."
+                    "type": "Home",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/other/celtic/1999-00/home/celtic89-90.JPG",
+                    "technical_sponsor": "Umbro",
+                    "colors": "green-white",
+                    "description": "Celtic's 1989–90 home jersey was worn during a period of domestic competition in Scotland; the team continued to be a leading force in the league and cup competitions."
                 }
-              ]
-            },
-            {
-              "year": "1992-1993",
-              "jerseys": [
-                {
-                  "type": "Home",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/other/celtic/1992-93/home/celtic92-93.JPG",
-                  "description": "Celtic FC's 1992-1993 jersey was worn during a notable season."
-                }
-              ]
-            },
-            {
-              "year": "1997-1998",
-              "jerseys": [
-                {
-                  "type": "Home",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/other/celtic/1997-98/home/celtic97-98.JPG",
-                  "description": "Celtic FC's 1997-1998 jersey was worn during a notable season."
-                }
-              ]
+                ]
             }
-          ],
-          "history": "Celtic FC is one of Scotland’s most successful and beloved football clubs, known for its green and white hoops."
+            ]
         }
-      ],
-      "history": "A variety of storied football clubs from different countries and leagues, each with unique traditions and heritage."
+        ]
     },
     {
-      "id": "league1",
-      "name": "League One",
-      "teams": [
+        "id": "Ligue 1",
+        "name": "Ligue 1",
+        "history": "Ligue 1 is France's top football league, producing world-class talents and strong domestic clubs. Since the 2010s it has seen major investment and global stars, raising its international profile.",
+        "teams": [
         {
-          "id": "Paris Saint-Germain",
-          "name": "Paris Saint-Germain",
-          "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/l1/psg/psglogo.png",
-          "seasons": [
+            "id": "Paris Saint-Germain",
+            "name": "Paris Saint-Germain",
+            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/l1/psg/psglogo.png",
+            "history": "Paris Saint-Germain became France's dominant club during the 2010s after significant investment, winning multiple league titles and attracting global stars. The club is now a major European project with strong commercial growth.",
+            "seasons": [
             {
-              "year": "2012-2013",
-              "jerseys": [
+                "year": "2012-2013",
+                "jerseys": [
                 {
-                  "type": "Home",
-                  "image": "https://lukoonly.github.io/jersey-archive-api/l1/psg/2012-13/psg12-13.JPG",
-                  "description": "Paris Saint-Germain's 2012-2013 jersey was worn during a notable season."
+                    "type": "Home",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/l1/psg/2012-13/psg12-13.JPG",
+                    "technical_sponsor": "Nike",
+                    "colors": "blue-red",
+                    "description": "PSG's 2012–13 home shirt was used in the club's early-dominant phase after major investment; they consolidated their status as French champions and grew into a major European side."
                 }
-              ]
+                ]
             }
-          ],
-          "history": "PSG is a dominant force in French football, particularly since the 2010s with multiple league titles and global stars."
+            ]
         }
-      ],
-      "history": "Ligue 1, France’s premier football competition, is home to some of Europe’s top clubs and world-renowned players."
+        ]
+    },
+    {
+        "id": "Bundesliga",
+        "name": "Bundesliga",
+        "history": "Germany's Bundesliga is known for vibrant atmospheres, strong fan ownership models and regularly producing competitive teams in European competitions. Clubs emphasize youth development and tactical organization.",
+        "teams": [
+        {
+            "id": "Bayern Munich",
+            "name": "Bayern Munich",
+            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/bundesliga/bayern/bayernlogo.png",
+            "history": "FC Bayern Munich is Germany's most successful club domestically and a perennial European contender. Known for consistent investment in squad quality, Bayern has numerous Bundesliga titles and Champions League achievements.",
+            "seasons": [
+            {
+                "year": "2012-13",
+                "jerseys": [
+                {
+                    "type": "Home",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/bundesliga/bayern/2012-13/home/bayern12-13.jpg",
+                    "technical_sponsor": "Adidas",
+                    "colors": "red-white",
+                    "description": "Bayern Munich's 2012–13 home shirt was worn in the treble-winning season under Jupp Heynckes; Bayern won the Bundesliga, DFB-Pokal and the UEFA Champions League — one of the club's greatest campaigns."
+                }
+                ]
+            }
+            ]
+        },
+        {
+            "id": "Borussia Dortmund",
+            "name": "Borussia Dortmund",
+            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/bundesliga/borussia/borussialogo.png",
+            "history": "Borussia Dortmund is a leading German club known for an attacking style, strong youth development and passionate supporters at Signal Iduna Park. The club has won multiple Bundesliga titles and a Champions League.",
+            "seasons": [
+            {
+                "year": "2012-13",
+                "jerseys": [
+                {
+                    "type": "Home",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/bundesliga/borussia/2012-13/home/borussia12-13.jpg",
+                    "technical_sponsor": "Puma",
+                    "colors": "yellow-black",
+                    "description": "Borussia Dortmund's 2012–13 kit was worn in a season when they were among Germany's top teams, balancing domestic competition and European ambitions while showcasing young stars."
+                }
+                ]
+            }
+            ]
+        },
+        {
+            "id": "Eintracht Frankfurt",
+            "name": "Eintracht Frankfurt",
+            "logo": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/bundesliga/eintracht/eintrachtlogo.png",
+            "history": "Eintracht Frankfurt is a historic Bundesliga side with a passionate local following and solid cup traditions. The club has had notable domestic and European moments, including deep cup runs and competitive league finishes.",
+            "seasons": [
+            {
+                "year": "2018-19",
+                "jerseys": [
+                {
+                    "type": "Home",
+                    "image": "https://raw.githubusercontent.com/Lukoonly/jersey-archive-api/master/bundesliga/eintracht/2018-19/home/eintracht18-19.jpg",
+                    "technical_sponsor": "Nike",
+                    "colors": "black-white",
+                    "description": "Eintracht Frankfurt's 2018–19 home shirt accompanied a season where the club achieved notable domestic results and laid groundwork for future cup successes."
+                }
+                ]
+            }
+            ]
+        }
+        ]
     }
-  ]
+    ]
 }
